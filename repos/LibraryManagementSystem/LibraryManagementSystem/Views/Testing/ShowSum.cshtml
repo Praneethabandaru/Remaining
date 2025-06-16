@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ShowSum</title>
+</head>
+<body>
+    <div>
+        @{
+            var t = ViewData["t"] as int[];
+            int sum = 0;
+            foreach (var k in t)
+            {
+                sum += k;
+            }
+        }
+        <div>the sum of view data is @sum</div>
+        @{
+            var a = ViewBag.a;
+            int sums = 0;
+            foreach (var k in t)
+            {
+                sums += k;
+            }
+        }
+        <div>the sum of view data is @sums</div>
+
+
+
+    </div>
+</body>
+</html>

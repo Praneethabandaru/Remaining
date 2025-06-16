@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\delegates\\delegates\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|solutionrelative:delegates\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\delegates\\delegates\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|solutionrelative:delegates\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\delegates\\delegates\\multicastdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|solutionrelative:delegates\\multicastdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\delegates\\delegates\\delrealtimecls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|solutionrelative:delegates\\delrealtimecls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\delegates\\delegates\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|solutionrelative:delegates\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\delegates\\delegates\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|solutionrelative:delegates\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\delegates\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\delegates\\delegates\\deldemocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC54DE1-102A-41F2-99D9-BFA118D46C29}|Delegates\\Delegates.csproj|solutionrelative:delegates\\deldemocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "deldemocls.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\deldemocls.cs",
+              "RelativeDocumentMoniker": "Delegates\\deldemocls.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\deldemocls.cs",
+              "RelativeToolTip": "Delegates\\deldemocls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:28:15.141Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "delrealtimecls.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\delrealtimecls.cs",
+              "RelativeDocumentMoniker": "Delegates\\delrealtimecls.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\delrealtimecls.cs",
+              "RelativeToolTip": "Delegates\\delrealtimecls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:01:34.032Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\Server.cs",
+              "RelativeDocumentMoniker": "Delegates\\Server.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\Server.cs",
+              "RelativeToolTip": "Delegates\\Server.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:43:13.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\Client.cs",
+              "RelativeDocumentMoniker": "Delegates\\Client.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\Client.cs",
+              "RelativeToolTip": "Delegates\\Client.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:41:38.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\Class3.cs",
+              "RelativeDocumentMoniker": "Delegates\\Class3.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\Class3.cs",
+              "RelativeToolTip": "Delegates\\Class3.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:52:33.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\Class2.cs",
+              "RelativeDocumentMoniker": "Delegates\\Class2.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\Class2.cs",
+              "RelativeToolTip": "Delegates\\Class2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:57:57.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "multicastdemo.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\multicastdemo.cs",
+              "RelativeDocumentMoniker": "Delegates\\multicastdemo.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\multicastdemo.cs",
+              "RelativeToolTip": "Delegates\\multicastdemo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:48:37.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Delegates\\Delegates\\Program.cs",
+              "RelativeToolTip": "Delegates\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:21:10.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

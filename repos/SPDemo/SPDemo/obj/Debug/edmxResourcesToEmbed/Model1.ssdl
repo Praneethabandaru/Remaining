@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="b248dbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="customers">
+    <Key>
+      <PropertyRef Name="custid" />
+    </Key>
+    <Property Name="custid" Type="int" Nullable="false" />
+    <Property Name="custname" Type="varchar" MaxLength="20" />
+    <Property Name="dob" Type="date" />
+    <Property Name="caddress" Type="varchar" MaxLength="50" />
+    <Property Name="cphone" Type="varchar" MaxLength="12" />
+    <Property Name="ts" Type="timestamp" StoreGeneratedPattern="Computed" Nullable="false" />
+    <Property Name="pan" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <Function Name="getcudt" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="getcust" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="getcustomers" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="c" Type="varchar" Mode="In" />
+    <Parameter Name="a" Type="varchar" Mode="In" />
+  </Function>
+  <EntityContainer Name="b248dbModelStoreContainer">
+    <EntitySet Name="customers" EntityType="Self.customers" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

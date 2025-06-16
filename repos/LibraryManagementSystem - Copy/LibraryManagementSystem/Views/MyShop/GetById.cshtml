@@ -1,0 +1,26 @@
+﻿@model LibraryManagementSystem.Models.product
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetById</title>
+</head>
+<body>
+    <form method="post">
+        <input type="text" name="id"/>
+        <input type="submit" value="GetById" />
+    </form>
+        @if (IsPost)
+        {
+            @Model.pid <br />
+            @Model.pname <br />
+            @Model.description <br />
+            @Model.price
+        }
+</body>
+</html>

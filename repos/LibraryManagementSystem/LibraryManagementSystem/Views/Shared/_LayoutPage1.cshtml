@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        <div>
+            <link href="~/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+        </div>
+
+        <header>
+            <img src="https://tse3.mm.bing.net/th/id/OIP.jIvN7gniQRb6-N2zgdzsIgHaE7?rs=1&pid=ImgDetMain" />
+        </header>
+        <nav>
+            @Html.ActionLink("Home", "Index", null, new { @class = "btn btn-info" })
+            @Html.ActionLink("Login", "Login", null, new { @class = "btn btn-info" })
+            @Html.ActionLink("Products", "Products", null, new { @class = "btn btn-info" })
+            @Html.ActionLink("Buy", "Buy", null, new { @class = "btn btn-info" })
+            @Html.ActionLink("Register", "Register", null, new { @class = "btn btn-info" })
+            @Html.ActionLink("Return", "Return", null, new { @class = "btn btn-info" })
+            @Html.ActionLink("Logout", "Logout", null, new { @class = "btn btn-info" })
+
+            <form method="get" action="@Url.Action("Products", "BooksOnline")" style="margin-bottom:20px;">
+                <input type="text" name="searchTitle" placeholder="Search by title" value="@Request.QueryString["searchTitle"]" />
+                <input type="submit" value="Search" class="btn btn-primary" />
+            </form>
+        </nav>
+      
+
+        @RenderBody()
+        <footer>
+        </footer>
+    </div>
+</body>
+</html>

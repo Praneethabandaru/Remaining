@@ -1,0 +1,28 @@
+﻿@model CarRentalApp.Models.Customer
+<div>
+	<form method="post">
+		<input type="text" asp-for="Name" placeholder="Enter Name"/>
+		<span asp-validation-for="Name" class="btn btn-warning"></span> <br />
+
+		<input type="text" asp-for="Email" placeholder="Enter Email" />
+		<span asp-validation-for="Email" class="btn btn-warning"></span> <br />
+
+		<input type="text" asp-for="Phone" placeholder="Enter Phone Number"/>
+		<span asp-validation-for="Phone" class="btn btn-warning"></span> <br />
+
+		<input type="text" asp-for="Address" placeholder="Enter Address" />
+		<span asp-validation-for="Address" class="btn btn-warning"></span> <br />
+
+		<input type="text" asp-for="LicenseNumber" placeholder="Enter License Number"/>
+		<span asp-validation-for="LicenseNumber" class="btn btn-warning"></span> <br />
+
+		<input type="text" asp-for="Username" placeholder="Enter Username" />
+		<span asp-validation-for="Username" class="text-danger"></span> <br />
+
+		<input type="password" asp-for="Pwd" placeholder="Enter Password"/>
+		<span asp-validation-for="Pwd" class="text-danger"></span> <br /> 
+
+		<input type="submit" value="Register" class="btn btn-danger" /> 
+
+	</form>
+</div>

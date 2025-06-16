@@ -1,0 +1,21 @@
+﻿@model CarRentalApp.Models.Customer
+<div>
+	<form method="post">
+
+		<input type="text" asp-for=Username class="form-control"/>
+		<span asp-validation-for=Username class="btn btn-warning"></span>
+
+		<input type="password" asp-for=Pwd class="form-control" />
+		<span asp-validation-for=Pwd class="btn btn-warning"></span>
+
+		<input type="submit" value="Login" class="btn btn-primary"/>
+
+	</form>
+	                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+	@if (HttpMethods.IsPost(Context.Request.Method))
+	{
+		<div class="btn btn-success">
+			@ViewData["err"]
+		</div>
+	}                            
+</div>

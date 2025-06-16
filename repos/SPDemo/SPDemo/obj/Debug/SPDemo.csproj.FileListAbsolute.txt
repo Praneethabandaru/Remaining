@@ -1,0 +1,12 @@
+C:\Users\bandaru.praneetha\source\repos\SPDemo\SPDemo\obj\Debug\SPDemo.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\SPDemo\SPDemo\obj\Debug\SPDemo.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\SPDemo\SPDemo\bin\Debug\SPDemo.exe.config
+C:\Users\bandaru.praneetha\source\repos\SPDemo\SPDemo\bin\Debug\SPDemo.exe
+C:\Users\bandaru.praneetha\source\repos\SPDemo\SPDemo\bin\Debug\SPDemo.pdb
+C:\Users\bandaru.praneetha\source\repos\SPDemo\SPDemo\bin\Debug\EntityFramework.dll
+C:\Users\bandaru.praneetha\source\repos\SPDemo\SPDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bandaru.praneetha\source\repos\SPDemo\SPDemo\bin\Debug\EntityFramework.xml
+C:\Users\bandaru.praneetha\source\repos\SPDemo\SPDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bandaru.praneetha\source\repos\SPDemo\SPDemo\obj\Debug\SPDemo.csproj.Up2Date
+C:\Users\bandaru.praneetha\source\repos\SPDemo\SPDemo\obj\Debug\SPDemo.exe
+C:\Users\bandaru.praneetha\source\repos\SPDemo\SPDemo\obj\Debug\SPDemo.pdb

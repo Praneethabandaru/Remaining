@@ -1,0 +1,67 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body> 
+    @*<script src="/home/js"></script>*@
+    <div>
+        <h1>
+            Welcome to Index Page
+        </h1>
+        <hr />
+        content of index page goes here
+        <br />
+        <a href="Service">Services</a>
+        <a href="AboutUs">About Us</a>
+
+        @ViewData["a"]
+        @ViewData["b"]
+        @ViewData["c"] <br />
+
+        @ViewBag.hi  <br />
+
+        @TempData["t"]
+
+        @{
+            int a = 10;
+            int b = 20;
+            int c = a + b;
+            int result;
+            //program to print greatest of 2 numbers
+            if (a > b)
+            {
+                result = a;
+            }
+            else
+            {
+                result = b;
+            }
+
+            //print 1 to 10 using for loop
+            for (int i = 1; i <= 10; i++)
+            {
+                <div style="background-color:tomato">@i</div>
+            }
+            //array
+            int[] array = { 10, 20, 30, 40, 50 };
+            int sum = 0;
+            foreach (int i in array)
+            {
+                sum += i;
+            }
+        }
+        <div>The sum is @c</div>
+        <div>The greatest  is @result</div>
+        <div>The sum of array is @sum</div>
+
+    </div>
+</body>
+</html>

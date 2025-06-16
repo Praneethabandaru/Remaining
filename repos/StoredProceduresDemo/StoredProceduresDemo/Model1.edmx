@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="b248dbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="customer">
+          <Key>
+            <PropertyRef Name="custid" />
+          </Key>
+          <Property Name="custid" Type="int" Nullable="false" />
+          <Property Name="custname" Type="varchar" MaxLength="20" />
+          <Property Name="dob" Type="date" />
+          <Property Name="caddress" Type="varchar" MaxLength="50" />
+          <Property Name="cphone" Type="varchar" MaxLength="12" />
+        </EntityType>
+        <EntityType Name="customers">
+          <Key>
+            <PropertyRef Name="custid" />
+          </Key>
+          <Property Name="custid" Type="int" Nullable="false" />
+          <Property Name="custname" Type="varchar" MaxLength="20" />
+          <Property Name="dob" Type="date" />
+          <Property Name="caddress" Type="varchar" MaxLength="50" />
+          <Property Name="cphone" Type="varchar" MaxLength="12" />
+          <Property Name="ts" Type="timestamp" StoreGeneratedPattern="Computed" Nullable="false" />
+          <Property Name="pan" Type="varchar" MaxLength="10" />
+        </EntityType>
+        <EntityType Name="orders">
+          <Key>
+            <PropertyRef Name="orderid" />
+          </Key>
+          <Property Name="orderid" Type="int" Nullable="false" />
+          <Property Name="orderdate" Type="date" />
+          <Property Name="orderlocation" Type="varchar" MaxLength="20" />
+          <Property Name="productname" Type="varchar" MaxLength="20" />
+          <Property Name="custid" Type="int" />
+          <Property Name="price" Type="int" />
+        </EntityType>
+        <EntityType Name="students">
+          <Key>
+            <PropertyRef Name="stid" />
+          </Key>
+          <Property Name="stid" Type="int" Nullable="false" />
+          <Property Name="sname" Type="varchar" MaxLength="20" />
+          <Property Name="age" Type="int" />
+          <Property Name="ts" Type="timestamp" StoreGeneratedPattern="Computed" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TableA">
+          <Key>
+            <PropertyRef Name="cid" />
+          </Key>
+          <Property Name="cid" Type="int" Nullable="false" />
+          <Property Name="cname" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="TableB">
+          <Key>
+            <PropertyRef Name="cid" />
+          </Key>
+          <Property Name="cid" Type="int" Nullable="false" />
+          <Property Name="cname" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="userlogin">
+          <Key>
+            <PropertyRef Name="userid" />
+          </Key>
+          <Property Name="userid" Type="varchar" MaxLength="20" Nullable="false" />
+          <Property Name="upassword" Type="varchar" MaxLength="20" />
+          <Property Name="utype" Type="int" />
+        </EntityType>
+        <Association Name="constraintname">
+          <End Role="customers" Type="Self.customers" Multiplicity="0..1" />
+          <End Role="orders" Type="Self.orders" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="customers">
+              <PropertyRef Name="custid" />
+            </Principal>
+            <Dependent Role="orders">
+              <PropertyRef Name="custid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__orders__custid__14270015">
+          <End Role="customers" Type="Self.customers" Multiplicity="0..1" />
+          <End Role="orders" Type="Self.orders" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="customers">
+              <PropertyRef Name="custid" />
+            </Principal>
+            <Dependent Role="orders">
+              <PropertyRef Name="custid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Function Name="getcudt" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="id" Type="int" Mode="In" />
+        </Function>
+        <Function Name="getcust" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="id" Type="int" Mode="In" />
+        </Function>
+        <Function Name="getcustomers" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="c" Type="varchar" Mode="In" />
+          <Parameter Name="a" Type="varchar" Mode="In" />
+        </Function>
+        <EntityContainer Name="b248dbModelStoreContainer">
+          <EntitySet Name="customer" EntityType="Self.customer" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="customers" EntityType="Self.customers" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="orders" EntityType="Self.orders" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="students" EntityType="Self.students" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TableA" EntityType="Self.TableA" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TableB" EntityType="Self.TableB" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="userlogin" EntityType="Self.userlogin" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="constraintname" Association="Self.constraintname">
+            <End Role="customers" EntitySet="customers" />
+            <End Role="orders" EntitySet="orders" />
+          </AssociationSet>
+          <AssociationSet Name="FK__orders__custid__14270015" Association="Self.FK__orders__custid__14270015">
+            <End Role="customers" EntitySet="customers" />
+            <End Role="orders" EntitySet="orders" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="b248dbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="customer">
+          <Key>
+            <PropertyRef Name="custid" />
+          </Key>
+          <Property Name="custid" Type="Int32" Nullable="false" />
+          <Property Name="custname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="dob" Type="DateTime" Precision="0" />
+          <Property Name="caddress" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="cphone" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="customer1">
+          <Key>
+            <PropertyRef Name="custid" />
+          </Key>
+          <Property Name="custid" Type="Int32" Nullable="false" />
+          <Property Name="custname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="dob" Type="DateTime" Precision="0" />
+          <Property Name="caddress" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="cphone" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+          <Property Name="ts" Type="Binary" MaxLength="8" FixedLength="true" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+          <Property Name="pan" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="orders" Relationship="Self.constraintname" FromRole="customers" ToRole="orders" />
+          <NavigationProperty Name="orders1" Relationship="Self.FK__orders__custid__14270015" FromRole="customers" ToRole="orders" />
+        </EntityType>
+        <EntityType Name="order">
+          <Key>
+            <PropertyRef Name="orderid" />
+          </Key>
+          <Property Name="orderid" Type="Int32" Nullable="false" />
+          <Property Name="orderdate" Type="DateTime" Precision="0" />
+          <Property Name="orderlocation" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="productname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="custid" Type="Int32" />
+          <Property Name="price" Type="Int32" />
+          <NavigationProperty Name="customer" Relationship="Self.constraintname" FromRole="orders" ToRole="customers" />
+          <NavigationProperty Name="customer1" Relationship="Self.FK__orders__custid__14270015" FromRole="orders" ToRole="customers" />
+        </EntityType>
+        <EntityType Name="student">
+          <Key>
+            <PropertyRef Name="stid" />
+          </Key>
+          <Property Name="stid" Type="Int32" Nullable="false" />
+          <Property Name="sname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="age" Type="Int32" />
+          <Property Name="ts" Type="Binary" MaxLength="8" FixedLength="true" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+        </EntityType>
+        <EntityType Name="TableA">
+          <Key>
+            <PropertyRef Name="cid" />
+          </Key>
+          <Property Name="cid" Type="Int32" Nullable="false" />
+          <Property Name="cname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="TableB">
+          <Key>
+            <PropertyRef Name="cid" />
+          </Key>
+          <Property Name="cid" Type="Int32" Nullable="false" />
+          <Property Name="cname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="userlogin">
+          <Key>
+            <PropertyRef Name="userid" />
+          </Key>
+          <Property Name="userid" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="upassword" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="utype" Type="Int32" />
+        </EntityType>
+        <Association Name="constraintname">
+          <End Role="customers" Type="Self.customer1" Multiplicity="0..1" />
+          <End Role="orders" Type="Self.order" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="customers">
+              <PropertyRef Name="custid" />
+            </Principal>
+            <Dependent Role="orders">
+              <PropertyRef Name="custid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__orders__custid__14270015">
+          <End Role="customers" Type="Self.customer1" Multiplicity="0..1" />
+          <End Role="orders" Type="Self.order" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="customers">
+              <PropertyRef Name="custid" />
+            </Principal>
+            <Dependent Role="orders">
+              <PropertyRef Name="custid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="b248dbEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="customers" EntityType="Self.customer" />
+          <EntitySet Name="customers1" EntityType="Self.customer1" />
+          <EntitySet Name="orders" EntityType="Self.order" />
+          <EntitySet Name="students" EntityType="Self.student" />
+          <EntitySet Name="TableAs" EntityType="Self.TableA" />
+          <EntitySet Name="TableBs" EntityType="Self.TableB" />
+          <EntitySet Name="userlogins" EntityType="Self.userlogin" />
+          <AssociationSet Name="constraintname" Association="Self.constraintname">
+            <End Role="customers" EntitySet="customers1" />
+            <End Role="orders" EntitySet="orders" />
+          </AssociationSet>
+          <AssociationSet Name="FK__orders__custid__14270015" Association="Self.FK__orders__custid__14270015">
+            <End Role="customers" EntitySet="customers1" />
+            <End Role="orders" EntitySet="orders" />
+          </AssociationSet>
+          <FunctionImport Name="getcudt" ReturnType="Collection(b248dbModel.getcudt_Result)">
+            <Parameter Name="id" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="getcust" ReturnType="Collection(b248dbModel.getcust_Result)">
+            <Parameter Name="id" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="getcustomers" ReturnType="Collection(b248dbModel.getcustomers_Result)">
+            <Parameter Name="c" Mode="In" Type="String" />
+            <Parameter Name="a" Mode="In" Type="String" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="getcudt_Result">
+          <Property Type="Int32" Name="custid" Nullable="false" />
+          <Property Type="String" Name="custname" Nullable="true" MaxLength="20" />
+          <Property Type="DateTime" Name="dob" Nullable="true" />
+          <Property Type="String" Name="caddress" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="cphone" Nullable="true" MaxLength="12" />
+          <Property Type="Binary" Name="ts" Nullable="false" MaxLength="8" />
+          <Property Type="String" Name="pan" Nullable="true" MaxLength="10" />
+        </ComplexType>
+        <ComplexType Name="getcust_Result">
+          <Property Type="Int32" Name="custid" Nullable="false" />
+          <Property Type="String" Name="custname" Nullable="true" MaxLength="20" />
+          <Property Type="DateTime" Name="dob" Nullable="true" />
+          <Property Type="String" Name="caddress" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="cphone" Nullable="true" MaxLength="12" />
+          <Property Type="Binary" Name="ts" Nullable="false" MaxLength="8" />
+          <Property Type="String" Name="pan" Nullable="true" MaxLength="10" />
+        </ComplexType>
+        <ComplexType Name="getcustomers_Result">
+          <Property Type="Int32" Name="custid" Nullable="false" />
+          <Property Type="String" Name="custname" Nullable="true" MaxLength="20" />
+          <Property Type="DateTime" Name="dob" Nullable="true" />
+          <Property Type="String" Name="caddress" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="cphone" Nullable="true" MaxLength="12" />
+          <Property Type="Binary" Name="ts" Nullable="false" MaxLength="8" />
+          <Property Type="String" Name="pan" Nullable="true" MaxLength="10" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="b248dbModelStoreContainer" CdmEntityContainer="b248dbEntities">
+          <EntitySetMapping Name="customers">
+            <EntityTypeMapping TypeName="b248dbModel.customer">
+              <MappingFragment StoreEntitySet="customer">
+                <ScalarProperty Name="custid" ColumnName="custid" />
+                <ScalarProperty Name="custname" ColumnName="custname" />
+                <ScalarProperty Name="dob" ColumnName="dob" />
+                <ScalarProperty Name="caddress" ColumnName="caddress" />
+                <ScalarProperty Name="cphone" ColumnName="cphone" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="customers1">
+            <EntityTypeMapping TypeName="b248dbModel.customer1">
+              <MappingFragment StoreEntitySet="customers">
+                <ScalarProperty Name="custid" ColumnName="custid" />
+                <ScalarProperty Name="custname" ColumnName="custname" />
+                <ScalarProperty Name="dob" ColumnName="dob" />
+                <ScalarProperty Name="caddress" ColumnName="caddress" />
+                <ScalarProperty Name="cphone" ColumnName="cphone" />
+                <ScalarProperty Name="ts" ColumnName="ts" />
+                <ScalarProperty Name="pan" ColumnName="pan" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="orders">
+            <EntityTypeMapping TypeName="b248dbModel.order">
+              <MappingFragment StoreEntitySet="orders">
+                <ScalarProperty Name="orderid" ColumnName="orderid" />
+                <ScalarProperty Name="orderdate" ColumnName="orderdate" />
+                <ScalarProperty Name="orderlocation" ColumnName="orderlocation" />
+                <ScalarProperty Name="productname" ColumnName="productname" />
+                <ScalarProperty Name="custid" ColumnName="custid" />
+                <ScalarProperty Name="price" ColumnName="price" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="students">
+            <EntityTypeMapping TypeName="b248dbModel.student">
+              <MappingFragment StoreEntitySet="students">
+                <ScalarProperty Name="stid" ColumnName="stid" />
+                <ScalarProperty Name="sname" ColumnName="sname" />
+                <ScalarProperty Name="age" ColumnName="age" />
+                <ScalarProperty Name="ts" ColumnName="ts" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TableAs">
+            <EntityTypeMapping TypeName="b248dbModel.TableA">
+              <MappingFragment StoreEntitySet="TableA">
+                <ScalarProperty Name="cid" ColumnName="cid" />
+                <ScalarProperty Name="cname" ColumnName="cname" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TableBs">
+            <EntityTypeMapping TypeName="b248dbModel.TableB">
+              <MappingFragment StoreEntitySet="TableB">
+                <ScalarProperty Name="cid" ColumnName="cid" />
+                <ScalarProperty Name="cname" ColumnName="cname" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="userlogins">
+            <EntityTypeMapping TypeName="b248dbModel.userlogin">
+              <MappingFragment StoreEntitySet="userlogin">
+                <ScalarProperty Name="userid" ColumnName="userid" />
+                <ScalarProperty Name="upassword" ColumnName="upassword" />
+                <ScalarProperty Name="utype" ColumnName="utype" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="getcudt" FunctionName="b248dbModel.Store.getcudt">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="b248dbModel.getcudt_Result">
+                <ScalarProperty Name="custid" ColumnName="custid" />
+                <ScalarProperty Name="custname" ColumnName="custname" />
+                <ScalarProperty Name="dob" ColumnName="dob" />
+                <ScalarProperty Name="caddress" ColumnName="caddress" />
+                <ScalarProperty Name="cphone" ColumnName="cphone" />
+                <ScalarProperty Name="ts" ColumnName="ts" />
+                <ScalarProperty Name="pan" ColumnName="pan" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="getcust" FunctionName="b248dbModel.Store.getcust">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="b248dbModel.getcust_Result">
+                <ScalarProperty Name="custid" ColumnName="custid" />
+                <ScalarProperty Name="custname" ColumnName="custname" />
+                <ScalarProperty Name="dob" ColumnName="dob" />
+                <ScalarProperty Name="caddress" ColumnName="caddress" />
+                <ScalarProperty Name="cphone" ColumnName="cphone" />
+                <ScalarProperty Name="ts" ColumnName="ts" />
+                <ScalarProperty Name="pan" ColumnName="pan" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="getcustomers" FunctionName="b248dbModel.Store.getcustomers">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="b248dbModel.getcustomers_Result">
+                <ScalarProperty Name="custid" ColumnName="custid" />
+                <ScalarProperty Name="custname" ColumnName="custname" />
+                <ScalarProperty Name="dob" ColumnName="dob" />
+                <ScalarProperty Name="caddress" ColumnName="caddress" />
+                <ScalarProperty Name="cphone" ColumnName="cphone" />
+                <ScalarProperty Name="ts" ColumnName="ts" />
+                <ScalarProperty Name="pan" ColumnName="pan" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

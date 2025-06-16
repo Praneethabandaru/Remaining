@@ -1,0 +1,40 @@
+﻿@model List<CarRentalApp.Models.Vehicle>
+<h2>View Cars</h2>
+<div class="row">
+	@foreach(var vehicle in Model)
+	{
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                @if (!string.IsNullOrEmpty(vehicle.Carimage))
+                {
+                    <img src="~/images/@vehicle.Carimage" class="card-img-top" alt="Car Image" style="height:200px;object-fit:cover;" />
+                }
+                <div class="card-body">
+                    <h5 class="card-title">@vehicle.Brand @vehicle.Model (@vehicle.Year)</h5>
+                    <p class="card-text">
+                        <strong>License Plate:</strong> @vehicle.LicensePlate<br />
+                        <strong>Fuel Type:</strong> @vehicle.Fueltype<br />
+                        <strong>Status:</strong> @vehicle.Status<br />
+                        <strong>Rent per Day:</strong> @vehicle.Rentperday
+                    </p>
+                    @if (vehicle.Status == "Available")
+                    {
+                        <a asp-controller="CarApp" asp-action="Rent" asp-route-id="@vehicle.VehicleId" class="btn btn-primary">
+                            Book Car
+                        </a>
+                    }
+                    else if (vehicle.Status == "Rented")
+                    {
+                        <span class="badge bg-warning text-dark">Currently Rented</span>
+                    }
+                    else if (vehicle.Status == "Maintenance")
+                    {
+                        <span class="badge bg-danger">Under Maintenance</span>
+                    }
+                </div>
+            </div>
+        </div>
+	}
+</div>
+
+	

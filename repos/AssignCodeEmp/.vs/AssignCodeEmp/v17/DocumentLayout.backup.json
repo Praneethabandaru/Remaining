@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignCodeEmp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7349ADFF-29C5-4B83-9A9F-BD3CAB1EAEB7}|AssignCodeEmp\\AssignCodeEmp.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\assigncodeemp\\assigncodeemp\\codefirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7349ADFF-29C5-4B83-9A9F-BD3CAB1EAEB7}|AssignCodeEmp\\AssignCodeEmp.csproj|solutionrelative:assigncodeemp\\codefirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7349ADFF-29C5-4B83-9A9F-BD3CAB1EAEB7}|AssignCodeEmp\\AssignCodeEmp.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\assigncodeemp\\assigncodeemp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7349ADFF-29C5-4B83-9A9F-BD3CAB1EAEB7}|AssignCodeEmp\\AssignCodeEmp.csproj|solutionrelative:assigncodeemp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7349ADFF-29C5-4B83-9A9F-BD3CAB1EAEB7}|AssignCodeEmp\\AssignCodeEmp.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\assigncodeemp\\assigncodeemp\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7349ADFF-29C5-4B83-9A9F-BD3CAB1EAEB7}|AssignCodeEmp\\AssignCodeEmp.csproj|solutionrelative:assigncodeemp\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7349ADFF-29C5-4B83-9A9F-BD3CAB1EAEB7}|AssignCodeEmp\\AssignCodeEmp.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\assigncodeemp\\assigncodeemp\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7349ADFF-29C5-4B83-9A9F-BD3CAB1EAEB7}|AssignCodeEmp\\AssignCodeEmp.csproj|solutionrelative:assigncodeemp\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7349ADFF-29C5-4B83-9A9F-BD3CAB1EAEB7}|AssignCodeEmp\\AssignCodeEmp.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\assigncodeemp\\assigncodeemp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7349ADFF-29C5-4B83-9A9F-BD3CAB1EAEB7}|AssignCodeEmp\\AssignCodeEmp.csproj|solutionrelative:assigncodeemp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7349ADFF-29C5-4B83-9A9F-BD3CAB1EAEB7}|AssignCodeEmp\\AssignCodeEmp.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\assigncodeemp\\assigncodeemp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7349ADFF-29C5-4B83-9A9F-BD3CAB1EAEB7}|AssignCodeEmp\\AssignCodeEmp.csproj|solutionrelative:assigncodeemp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 721,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Codefirst.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignCodeEmp\\AssignCodeEmp\\Codefirst.cs",
+              "RelativeDocumentMoniker": "AssignCodeEmp\\Codefirst.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignCodeEmp\\AssignCodeEmp\\Codefirst.cs*",
+              "RelativeToolTip": "AssignCodeEmp\\Codefirst.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:09:35.123Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignCodeEmp\\AssignCodeEmp\\Employee.cs",
+              "RelativeDocumentMoniker": "AssignCodeEmp\\Employee.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignCodeEmp\\AssignCodeEmp\\Employee.cs",
+              "RelativeToolTip": "AssignCodeEmp\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:29:13.137Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignCodeEmp\\AssignCodeEmp\\App.config",
+              "RelativeDocumentMoniker": "AssignCodeEmp\\App.config",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignCodeEmp\\AssignCodeEmp\\App.config",
+              "RelativeToolTip": "AssignCodeEmp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-30T09:41:05.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignCodeEmp\\AssignCodeEmp\\Department.cs",
+              "RelativeDocumentMoniker": "AssignCodeEmp\\Department.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignCodeEmp\\AssignCodeEmp\\Department.cs",
+              "RelativeToolTip": "AssignCodeEmp\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:48:49.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignCodeEmp\\AssignCodeEmp\\Model1.cs",
+              "RelativeDocumentMoniker": "AssignCodeEmp\\Model1.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignCodeEmp\\AssignCodeEmp\\Model1.cs",
+              "RelativeToolTip": "AssignCodeEmp\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:41:26.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignCodeEmp\\AssignCodeEmp\\Program.cs",
+              "RelativeDocumentMoniker": "AssignCodeEmp\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignCodeEmp\\AssignCodeEmp\\Program.cs",
+              "RelativeToolTip": "AssignCodeEmp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:39:23.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

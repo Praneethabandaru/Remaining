@@ -1,0 +1,7 @@
+C:\Users\bandaru.praneetha\source\repos\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\bandaru.praneetha\source\repos\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\bandaru.praneetha\source\repos\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\bandaru.praneetha\source\repos\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\bandaru.praneetha\source\repos\Linq\Linq\obj\Debug\Linq.pdb

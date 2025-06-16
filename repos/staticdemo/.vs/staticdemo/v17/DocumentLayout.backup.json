@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\staticdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A5D9BB-E5C1-4731-A22D-728531A67AC2}|staticdemo\\staticdemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\staticdemo\\staticdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A5D9BB-E5C1-4731-A22D-728531A67AC2}|staticdemo\\staticdemo.csproj|solutionrelative:staticdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A5D9BB-E5C1-4731-A22D-728531A67AC2}|staticdemo\\staticdemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\staticdemo\\staticdemo\\exten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A5D9BB-E5C1-4731-A22D-728531A67AC2}|staticdemo\\staticdemo.csproj|solutionrelative:staticdemo\\exten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A5D9BB-E5C1-4731-A22D-728531A67AC2}|staticdemo\\staticdemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\staticdemo\\staticdemo\\pc1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A5D9BB-E5C1-4731-A22D-728531A67AC2}|staticdemo\\staticdemo.csproj|solutionrelative:staticdemo\\pc1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pc1.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\staticdemo\\staticdemo\\pc1.cs",
+              "RelativeDocumentMoniker": "staticdemo\\pc1.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\staticdemo\\staticdemo\\pc1.cs",
+              "RelativeToolTip": "staticdemo\\pc1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:54:46.752Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exten.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\staticdemo\\staticdemo\\exten.cs",
+              "RelativeDocumentMoniker": "staticdemo\\exten.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\staticdemo\\staticdemo\\exten.cs*",
+              "RelativeToolTip": "staticdemo\\exten.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:38:35.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\staticdemo\\staticdemo\\Program.cs",
+              "RelativeDocumentMoniker": "staticdemo\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\staticdemo\\staticdemo\\Program.cs*",
+              "RelativeToolTip": "staticdemo\\Program.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:02:41.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

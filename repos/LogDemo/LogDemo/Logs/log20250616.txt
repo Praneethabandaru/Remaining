@@ -1,0 +1,155 @@
+2025-06-16 15:30:48.530 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2025-06-16 15:30:48.576 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2025-06-16 15:30:48.579 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/MyLog/Index.cshtml'.
+2025-06-16 15:30:48.580 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2025-06-16 15:30:48.580 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2025-06-16 15:30:48.582 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2025-06-16 15:30:48.583 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2025-06-16 15:30:48.584 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2025-06-16 15:30:48.593 +05:30 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-06-16 15:30:48.655 +05:30 [DBG] Hosting starting
+2025-06-16 15:30:48.704 +05:30 [INF] User profile is available. Using 'C:\Users\bandaru.praneetha\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-06-16 15:30:48.715 +05:30 [DBG] Reading data from file 'C:\Users\bandaru.praneetha\AppData\Local\ASP.NET\DataProtection-Keys\key-1614ff0c-8035-4d50-8dbb-51725054e54f.xml'.
+2025-06-16 15:30:48.723 +05:30 [DBG] Found key {1614ff0c-8035-4d50-8dbb-51725054e54f}.
+2025-06-16 15:30:48.732 +05:30 [DBG] Considering key {1614ff0c-8035-4d50-8dbb-51725054e54f} with expiration date 2025-09-11 06:32:18Z as default key.
+2025-06-16 15:30:48.736 +05:30 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2025-06-16 15:30:48.740 +05:30 [DBG] Decrypting secret element using Windows DPAPI.
+2025-06-16 15:30:48.742 +05:30 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2025-06-16 15:30:48.747 +05:30 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2025-06-16 15:30:48.750 +05:30 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2025-06-16 15:30:48.752 +05:30 [DBG] Using key {1614ff0c-8035-4d50-8dbb-51725054e54f} as the default key.
+2025-06-16 15:30:48.754 +05:30 [DBG] Key ring with default key {1614ff0c-8035-4d50-8dbb-51725054e54f} was loaded during application startup.
+2025-06-16 15:30:48.957 +05:30 [INF] Now listening on: https://localhost:7192
+2025-06-16 15:30:48.958 +05:30 [INF] Now listening on: http://localhost:5296
+2025-06-16 15:30:48.959 +05:30 [DBG] Loaded hosting startup assembly LogDemo
+2025-06-16 15:30:48.960 +05:30 [DBG] Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+2025-06-16 15:30:48.960 +05:30 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-06-16 15:30:48.961 +05:30 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-06-16 15:30:49.018 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-16 15:30:49.019 +05:30 [INF] Hosting environment: Development
+2025-06-16 15:30:49.021 +05:30 [INF] Content root path: C:\Users\bandaru.praneetha\source\repos\LogDemo\LogDemo
+2025-06-16 15:30:49.023 +05:30 [DBG] Hosting started
+2025-06-16 15:30:49.210 +05:30 [DBG] Connection id "0HNDCNILS9F5E" accepted.
+2025-06-16 15:30:49.210 +05:30 [DBG] Connection id "0HNDCNILS9F5D" accepted.
+2025-06-16 15:30:49.211 +05:30 [DBG] Connection id "0HNDCNILS9F5E" received FIN.
+2025-06-16 15:30:49.214 +05:30 [DBG] Connection id "0HNDCNILS9F5D" started.
+2025-06-16 15:30:49.211 +05:30 [DBG] Connection id "0HNDCNILS9F5D" received FIN.
+2025-06-16 15:30:49.213 +05:30 [DBG] Connection id "0HNDCNILS9F5E" started.
+2025-06-16 15:30:49.229 +05:30 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-06-16 15:30:49.229 +05:30 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-06-16 15:30:49.292 +05:30 [DBG] Connection id "0HNDCNILS9F5D" stopped.
+2025-06-16 15:30:49.292 +05:30 [DBG] Connection id "0HNDCNILS9F5E" stopped.
+2025-06-16 15:30:49.297 +05:30 [DBG] Connection id "0HNDCNILS9F5D" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-06-16 15:30:49.297 +05:30 [DBG] Connection id "0HNDCNILS9F5E" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-06-16 15:30:50.617 +05:30 [DBG] Connection id "0HNDCNILS9F5F" accepted.
+2025-06-16 15:30:50.642 +05:30 [DBG] Connection id "0HNDCNILS9F5F" started.
+2025-06-16 15:30:50.711 +05:30 [DBG] Connection 0HNDCNILS9F5F established using the following protocol: "Tls12"
+2025-06-16 15:30:50.879 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7192/ - null null
+2025-06-16 15:30:51.033 +05:30 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-06-16 15:30:51.041 +05:30 [DBG] The request path / does not match a supported file type
+2025-06-16 15:30:51.056 +05:30 [DBG] 1 candidate(s) found for the request path '/'
+2025-06-16 15:30:51.061 +05:30 [DBG] Endpoint 'LogDemo.Controllers.HomeController.Index (LogDemo)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2025-06-16 15:30:51.064 +05:30 [DBG] Request matched endpoint 'LogDemo.Controllers.HomeController.Index (LogDemo)'
+2025-06-16 15:30:51.068 +05:30 [INF] Executing endpoint 'LogDemo.Controllers.HomeController.Index (LogDemo)'
+2025-06-16 15:30:51.118 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LogDemo.Controllers.HomeController (LogDemo).
+2025-06-16 15:30:51.127 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-06-16 15:30:51.129 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-06-16 15:30:51.135 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-06-16 15:30:51.136 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-06-16 15:30:51.138 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-06-16 15:30:51.143 +05:30 [DBG] Executing controller factory for controller LogDemo.Controllers.HomeController (LogDemo)
+2025-06-16 15:30:51.146 +05:30 [DBG] Executed controller factory for controller LogDemo.Controllers.HomeController (LogDemo)
+2025-06-16 15:30:51.152 +05:30 [DBG] View lookup cache miss for view 'Index' in controller 'Home'.
+2025-06-16 15:30:51.159 +05:30 [INF] Executing ViewResult, running view Index.
+2025-06-16 15:30:51.163 +05:30 [DBG] The view path '/Views/Home/Index.cshtml' was found in 9.1147ms.
+2025-06-16 15:30:51.190 +05:30 [DBG] View lookup cache miss for view '_Layout' in controller 'Home'.
+2025-06-16 15:30:51.249 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2025-06-16 15:30:51.271 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2025-06-16 15:30:51.288 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2025-06-16 15:30:51.298 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2025-06-16 15:30:51.303 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2025-06-16 15:30:51.305 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2025-06-16 15:30:51.307 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2025-06-16 15:30:51.312 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2025-06-16 15:30:51.314 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+2025-06-16 15:30:51.316 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2025-06-16 15:30:51.318 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2025-06-16 15:30:51.319 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+2025-06-16 15:30:51.329 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-06-16 15:30:51.337 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-06-16 15:30:51.343 +05:30 [INF] Executed ViewResult - view Index executed in 192.0742ms.
+2025-06-16 15:30:51.347 +05:30 [INF] Executed action LogDemo.Controllers.HomeController.Index (LogDemo) in 205.7286ms
+2025-06-16 15:30:51.348 +05:30 [INF] Executed endpoint 'LogDemo.Controllers.HomeController.Index (LogDemo)'
+2025-06-16 15:30:51.349 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2025-06-16 15:30:51.350 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2025-06-16 15:30:51.352 +05:30 [DBG] Connection id "0HNDCNILS9F5F" received FIN.
+2025-06-16 15:30:51.353 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7192/ - 200 null text/html; charset=utf-8 481.9273ms
+2025-06-16 15:30:51.357 +05:30 [DBG] Connection id "0HNDCNILS9F5F" is closed. The last processed stream ID was 1.
+2025-06-16 15:30:51.359 +05:30 [DBG] Connection id "0HNDCNILS9F5F" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-06-16 15:30:51.360 +05:30 [DBG] The connection queue processing loop for 0HNDCNILS9F5F completed.
+2025-06-16 15:30:51.362 +05:30 [DBG] Connection id "0HNDCNILS9F5F" stopped.
+2025-06-16 15:30:51.547 +05:30 [DBG] Connection id "0HNDCNILS9F5G" accepted.
+2025-06-16 15:30:51.549 +05:30 [DBG] Connection id "0HNDCNILS9F5G" started.
+2025-06-16 15:30:51.553 +05:30 [DBG] Connection 0HNDCNILS9F5G established using the following protocol: "Tls12"
+2025-06-16 15:30:51.555 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7192/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-16 15:30:51.555 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7192/_vs/browserLink - null null
+2025-06-16 15:30:51.565 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7192/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 9.8691ms
+2025-06-16 15:30:51.592 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7192/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.1085ms
+2025-06-16 15:30:56.707 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7192/mylog - null null
+2025-06-16 15:30:56.721 +05:30 [DBG] The request path /mylog does not match a supported file type
+2025-06-16 15:30:56.724 +05:30 [DBG] 1 candidate(s) found for the request path '/mylog'
+2025-06-16 15:30:56.727 +05:30 [DBG] Endpoint 'LogDemo.Controllers.MyLogController.Index (LogDemo)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/mylog'
+2025-06-16 15:30:56.729 +05:30 [DBG] Request matched endpoint 'LogDemo.Controllers.MyLogController.Index (LogDemo)'
+2025-06-16 15:30:56.730 +05:30 [INF] Executing endpoint 'LogDemo.Controllers.MyLogController.Index (LogDemo)'
+2025-06-16 15:30:56.732 +05:30 [INF] Route matched with {action = "Index", controller = "MyLog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LogDemo.Controllers.MyLogController (LogDemo).
+2025-06-16 15:30:56.734 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-06-16 15:30:56.735 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-06-16 15:30:56.737 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2025-06-16 15:30:56.738 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-06-16 15:30:56.739 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2025-06-16 15:30:56.742 +05:30 [DBG] Executing controller factory for controller LogDemo.Controllers.MyLogController (LogDemo)
+2025-06-16 15:30:56.744 +05:30 [DBG] Executed controller factory for controller LogDemo.Controllers.MyLogController (LogDemo)
+2025-06-16 15:30:56.812 +05:30 [ERR] Error occured at Index present in MyLog : with message Attempted to divide by zero. at 6/16/2025 3:30:56 PM
+2025-06-16 15:30:56.815 +05:30 [DBG] View lookup cache miss for view 'Index' in controller 'MyLog'.
+2025-06-16 15:30:56.816 +05:30 [INF] Executing ViewResult, running view Index.
+2025-06-16 15:30:56.817 +05:30 [DBG] The view path '/Views/MyLog/Index.cshtml' was found in 2.2799ms.
+2025-06-16 15:30:56.820 +05:30 [DBG] View lookup cache miss for view '_Layout' in controller 'MyLog'.
+2025-06-16 15:30:56.822 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2025-06-16 15:30:56.824 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2025-06-16 15:30:56.825 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2025-06-16 15:30:56.826 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2025-06-16 15:30:56.827 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2025-06-16 15:30:56.829 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2025-06-16 15:30:56.830 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2025-06-16 15:30:56.831 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2025-06-16 15:30:56.833 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+2025-06-16 15:30:56.835 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2025-06-16 15:30:56.836 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2025-06-16 15:30:56.838 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+2025-06-16 15:30:56.840 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2025-06-16 15:30:56.841 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2025-06-16 15:30:56.842 +05:30 [INF] Executed ViewResult - view Index executed in 27.1763ms.
+2025-06-16 15:30:56.843 +05:30 [INF] Executed action LogDemo.Controllers.MyLogController.Index (LogDemo) in 100.9413ms
+2025-06-16 15:30:56.844 +05:30 [INF] Executed endpoint 'LogDemo.Controllers.MyLogController.Index (LogDemo)'
+2025-06-16 15:30:56.845 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2025-06-16 15:30:56.846 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2025-06-16 15:30:56.847 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7192/mylog - 200 null text/html; charset=utf-8 139.6469ms
+2025-06-16 15:30:56.980 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7192/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-16 15:30:56.982 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7192/_vs/browserLink - null null
+2025-06-16 15:30:56.985 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7192/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.6556ms
+2025-06-16 15:30:57.000 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7192/_vs/browserLink - 200 null text/javascript; charset=UTF-8 18.919ms
+2025-06-16 15:30:57.413 +05:30 [DBG] Connection id "0HNDCNILS9F5G" received FIN.
+2025-06-16 15:30:57.417 +05:30 [DBG] Connection id "0HNDCNILS9F5G" is closed. The last processed stream ID was 9.
+2025-06-16 15:30:57.417 +05:30 [DBG] The connection queue processing loop for 0HNDCNILS9F5G completed.
+2025-06-16 15:30:57.419 +05:30 [DBG] Connection id "0HNDCNILS9F5G" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-06-16 15:30:57.426 +05:30 [DBG] Connection id "0HNDCNILS9F5G" stopped.

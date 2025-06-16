@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\SPDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B76976D-80A5-493E-A2B5-46BD265CD185}|SPDemo\\SPDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\spdemo\\spdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B76976D-80A5-493E-A2B5-46BD265CD185}|SPDemo\\SPDemo.csproj|solutionrelative:spdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B76976D-80A5-493E-A2B5-46BD265CD185}|SPDemo\\SPDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\spdemo\\spdemo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{0B76976D-80A5-493E-A2B5-46BD265CD185}|SPDemo\\SPDemo.csproj|solutionrelative:spdemo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B76976D-80A5-493E-A2B5-46BD265CD185}|SPDemo\\SPDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\spdemo\\spdemo\\efcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B76976D-80A5-493E-A2B5-46BD265CD185}|SPDemo\\SPDemo.csproj|solutionrelative:spdemo\\efcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B76976D-80A5-493E-A2B5-46BD265CD185}|SPDemo\\SPDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\spdemo\\spdemo\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B76976D-80A5-493E-A2B5-46BD265CD185}|SPDemo\\SPDemo.csproj|solutionrelative:spdemo\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B76976D-80A5-493E-A2B5-46BD265CD185}|SPDemo\\SPDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\spdemo\\spdemo\\genrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B76976D-80A5-493E-A2B5-46BD265CD185}|SPDemo\\SPDemo.csproj|solutionrelative:spdemo\\genrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 721,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\SPDemo\\SPDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SPDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\SPDemo\\SPDemo\\Program.cs",
+              "RelativeToolTip": "SPDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:09:25.727Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenRepo.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\SPDemo\\SPDemo\\GenRepo.cs",
+              "RelativeDocumentMoniker": "SPDemo\\GenRepo.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\SPDemo\\SPDemo\\GenRepo.cs",
+              "RelativeToolTip": "SPDemo\\GenRepo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:39:44.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\SPDemo\\SPDemo\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "SPDemo\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\SPDemo\\SPDemo\\Model1.Context.cs",
+              "RelativeToolTip": "SPDemo\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:15:14.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\SPDemo\\SPDemo\\Model1.edmx",
+              "RelativeDocumentMoniker": "SPDemo\\Model1.edmx",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\SPDemo\\SPDemo\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "SPDemo\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-30T11:10:29.996Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EfCls.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\SPDemo\\SPDemo\\EfCls.cs",
+              "RelativeDocumentMoniker": "SPDemo\\EfCls.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\SPDemo\\SPDemo\\EfCls.cs",
+              "RelativeToolTip": "SPDemo\\EfCls.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwE4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:11:48.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

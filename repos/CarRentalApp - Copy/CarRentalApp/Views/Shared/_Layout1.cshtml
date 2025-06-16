@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body>
+    <div>
+        <header>
+            <img src="~/car1.jpeg"/> 
+        </header>
+        <nav>
+			<a href="@Url.Action("Home", "CarApp")"   class="btn btn-info">Home</a>
+            <a href="@Url.Action("Login", "CarApp")"   class="btn btn-info">Login</a>
+            <a href="@Url.Action("Register", "CarApp")" class="btn btn-info">Register</a>
+            <a href="@Url.Action("ViewCars", "CarApp")" class="btn btn-info">ViewCars</a>
+            <a href="@Url.Action("RentCar", "CarApp")"  class="btn btn-info">RentCar</a>
+        </nav>
+        @RenderBody()
+		<footer>
+
+        </footer>
+			
+    </div>
+</body>
+</html>

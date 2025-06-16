@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\CodeFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5BE59-441A-457E-B48E-90623DA07F87}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\codefirstapp\\codefirstapp\\views\\mydi\\methodhttp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5BE59-441A-457E-B48E-90623DA07F87}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\views\\mydi\\methodhttp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5BE59-441A-457E-B48E-90623DA07F87}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\codefirstapp\\codefirstapp\\controllers\\mydicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5BE59-441A-457E-B48E-90623DA07F87}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\controllers\\mydicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5BE59-441A-457E-B48E-90623DA07F87}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\codefirstapp\\codefirstapp\\views\\mydi\\di.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC5BE59-441A-457E-B48E-90623DA07F87}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\views\\mydi\\di.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5BE59-441A-457E-B48E-90623DA07F87}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\codefirstapp\\codefirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5BE59-441A-457E-B48E-90623DA07F87}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC5BE59-441A-457E-B48E-90623DA07F87}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\codefirstapp\\codefirstapp\\mymathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC5BE59-441A-457E-B48E-90623DA07F87}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\mymathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2521,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "methodhttp.cshtml",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Views\\MyDI\\methodhttp.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApp\\Views\\MyDI\\methodhttp.cshtml",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Views\\MyDI\\methodhttp.cshtml*",
+              "RelativeToolTip": "CodeFirstApp\\Views\\MyDI\\methodhttp.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T05:02:08.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Di.cshtml",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Views\\MyDI\\Di.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApp\\Views\\MyDI\\Di.cshtml",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Views\\MyDI\\Di.cshtml",
+              "RelativeToolTip": "CodeFirstApp\\Views\\MyDI\\Di.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T04:19:40.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDIController.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Controllers\\MyDIController.cs",
+              "RelativeDocumentMoniker": "CodeFirstApp\\Controllers\\MyDIController.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Controllers\\MyDIController.cs*",
+              "RelativeToolTip": "CodeFirstApp\\Controllers\\MyDIController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T04:16:08.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyMathService.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\CodeFirstApp\\CodeFirstApp\\MyMathService.cs",
+              "RelativeDocumentMoniker": "CodeFirstApp\\MyMathService.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\CodeFirstApp\\CodeFirstApp\\MyMathService.cs",
+              "RelativeToolTip": "CodeFirstApp\\MyMathService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T04:10:37.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstApp\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Program.cs",
+              "RelativeToolTip": "CodeFirstApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:54:29.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

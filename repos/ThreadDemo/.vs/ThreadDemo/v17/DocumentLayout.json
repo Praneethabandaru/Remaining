@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\ThreadDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8D48EC-FE25-428B-9D2C-56C49BE8CCE6}|ThreadDemo\\ThreadDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\threaddemo\\threaddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8D48EC-FE25-428B-9D2C-56C49BE8CCE6}|ThreadDemo\\ThreadDemo.csproj|solutionrelative:threaddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8D48EC-FE25-428B-9D2C-56C49BE8CCE6}|ThreadDemo\\ThreadDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\threaddemo\\threaddemo\\semaphore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8D48EC-FE25-428B-9D2C-56C49BE8CCE6}|ThreadDemo\\ThreadDemo.csproj|solutionrelative:threaddemo\\semaphore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8D48EC-FE25-428B-9D2C-56C49BE8CCE6}|ThreadDemo\\ThreadDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\threaddemo\\threaddemo\\demo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8D48EC-FE25-428B-9D2C-56C49BE8CCE6}|ThreadDemo\\ThreadDemo.csproj|solutionrelative:threaddemo\\demo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "demo1.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\ThreadDemo\\ThreadDemo\\demo1.cs",
+              "RelativeDocumentMoniker": "ThreadDemo\\demo1.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\ThreadDemo\\ThreadDemo\\demo1.cs",
+              "RelativeToolTip": "ThreadDemo\\demo1.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAmwHEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:32:16.334Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\ThreadDemo\\ThreadDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\ThreadDemo\\ThreadDemo\\Program.cs",
+              "RelativeToolTip": "ThreadDemo\\Program.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAgwHoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:31:48.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Semaphore.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\ThreadDemo\\ThreadDemo\\Semaphore.cs",
+              "RelativeDocumentMoniker": "ThreadDemo\\Semaphore.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\ThreadDemo\\ThreadDemo\\Semaphore.cs",
+              "RelativeToolTip": "ThreadDemo\\Semaphore.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:10:51.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\bandaru.praneetha\source\repos\serializationdemo\mylib\bin\Debug\mylib.exe.config
+C:\Users\bandaru.praneetha\source\repos\serializationdemo\mylib\bin\Debug\mylib.exe
+C:\Users\bandaru.praneetha\source\repos\serializationdemo\mylib\bin\Debug\mylib.pdb
+C:\Users\bandaru.praneetha\source\repos\serializationdemo\mylib\obj\Debug\mylib.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\serializationdemo\mylib\obj\Debug\mylib.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\serializationdemo\mylib\obj\Debug\mylib.exe
+C:\Users\bandaru.praneetha\source\repos\serializationdemo\mylib\obj\Debug\mylib.pdb

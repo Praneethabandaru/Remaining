@@ -1,0 +1,113 @@
+﻿@model LibraryManagementSystem.Models.product
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+</head>
+<body>
+    <div>
+        @*<form method="post">
+            <label>Enter id</label>
+            <input type="text" name="t1" /> <br />
+            <label>Enter name</label>
+            <input type="text" name="t2" /> <br />
+            <label>Enter description</label>
+            <input type="text" name="t3" /> <br />
+            <label>Enter price</label>
+            <input type="text" name="t4" /> <br />
+            <label>Enter image</label>
+            <input type="text" name="t5" /> <br />
+            <input type="submit" value="Add Product" />
+        </form>*@
+        @*<form method="post">
+            <label>Enter id</label>
+            <input type="text" name="pid" /> <br />
+            <label>Enter name</label>
+            <input type="text" name="pname" /> <br />
+            <label>Enter description</label>
+            <input type="text" name="description" /> <br />
+            <label>Enter price</label>
+            <input type="text" name="price" /> <br />
+            <label>Enter image</label>
+            <input type="text" name="pimage" /> <br />
+            <input type="submit" value="Add Product" />
+        </form>*@
+        @*<form method="post">
+            <label>Enter id</label>
+            @Html.TextBox("pid") <br />
+            <label>Enter name</label>
+            @Html.TextBox("pname")  <br />
+            <label>Enter description</label>
+            @Html.TextBox("description")  <br />
+            <label>Enter price</label>
+            @Html.TextBox("price")  <br />
+            <label>Enter image</label>
+            @Html.TextBox("pimage")  <br />
+            <input type="submit" value="Add Product" />
+        </form>
+         @if (Model > 0)
+         {
+             <h3>Number of products added is @Model</h3>
+         }*@
+        @*<form method="post">
+                  @Html.LabelFor(model => model.pid,"Enter pid")
+                  @Html.TextBoxFor(model => model.pid) <br />
+
+                  @Html.LabelFor(model => model.pname, "Enter Product Name")
+                  @Html.TextBoxFor(model => model.pname) <br />
+
+                  @Html.LabelFor(model => model.description, "Enter Description")
+                  @Html.TextBoxFor(model => model.description) <br />
+
+                  @Html.LabelFor(model => model.price, "Enter Price")
+                  @Html.TextBoxFor(model => model.price) <br />
+
+                  @Html.LabelFor(model => model.pimage, "Enter Image URL")
+                  @Html.TextBoxFor(model => model.pimage) <br />
+
+                  <input type="submit" value="Add Product" />
+              </form> @if(@ViewBag.add >0)
+        {
+           <h1>Number of products added is @ViewBag.add</h1>
+        }*@
+        <form method="post">
+
+            @Html.DisplayNameFor(model => model.pid)
+            @Html.TextBoxFor(model => model.pid, "Enter pid") <br />
+            @Html.ValidationMessageFor(model => model.pid) <br />
+
+
+            @Html.DisplayNameFor(model => model.pname)
+            @Html.TextBoxFor(model => model.pname, "Enter pname") <br />
+            @Html.ValidationMessageFor(model => model.pname) <br />
+
+            @Html.DisplayNameFor(model => model.price)
+            @Html.TextBoxFor(model => model.price, "Enter Price") <br />
+            @Html.ValidationMessageFor(model => model.price) <br />
+
+            @Html.DisplayNameFor(model => model.description)
+            @Html.TextBoxFor(model => model.description, "Enter desc") <br />
+            @Html.ValidationMessageFor(model => model.description) <br />
+
+            @Html.DisplayNameFor(model => model.pimage)
+            @Html.TextBoxFor(model => model.pimage) <br />
+            @Html.ValidationMessageFor(model => model.pimage) <br />
+
+            <input type="submit" value="Add" />
+        </form>
+
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+       
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+
+    </div>
+</body>
+</html>

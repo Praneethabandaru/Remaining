@@ -1,0 +1,7 @@
+C:\Users\bandaru.praneetha\source\repos\garbage\garbage\bin\Debug\garbage.exe.config
+C:\Users\bandaru.praneetha\source\repos\garbage\garbage\bin\Debug\garbage.exe
+C:\Users\bandaru.praneetha\source\repos\garbage\garbage\bin\Debug\garbage.pdb
+C:\Users\bandaru.praneetha\source\repos\garbage\garbage\obj\Debug\garbage.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\garbage\garbage\obj\Debug\garbage.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\garbage\garbage\obj\Debug\garbage.exe
+C:\Users\bandaru.praneetha\source\repos\garbage\garbage\obj\Debug\garbage.pdb

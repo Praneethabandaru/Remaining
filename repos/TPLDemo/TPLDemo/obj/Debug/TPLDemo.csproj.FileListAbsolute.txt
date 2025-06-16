@@ -1,0 +1,7 @@
+C:\Users\bandaru.praneetha\source\repos\TPLDemo\TPLDemo\bin\Debug\TPLDemo.exe.config
+C:\Users\bandaru.praneetha\source\repos\TPLDemo\TPLDemo\bin\Debug\TPLDemo.exe
+C:\Users\bandaru.praneetha\source\repos\TPLDemo\TPLDemo\bin\Debug\TPLDemo.pdb
+C:\Users\bandaru.praneetha\source\repos\TPLDemo\TPLDemo\obj\Debug\TPLDemo.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\TPLDemo\TPLDemo\obj\Debug\TPLDemo.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\TPLDemo\TPLDemo\obj\Debug\TPLDemo.exe
+C:\Users\bandaru.praneetha\source\repos\TPLDemo\TPLDemo\obj\Debug\TPLDemo.pdb

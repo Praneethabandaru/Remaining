@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\LogDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA9227-B5B4-4454-AFE1-FEF480DEDEDB}|LogDemo\\LogDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\logdemo\\logdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FA9227-B5B4-4454-AFE1-FEF480DEDEDB}|LogDemo\\LogDemo.csproj|solutionrelative:logdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA9227-B5B4-4454-AFE1-FEF480DEDEDB}|LogDemo\\LogDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\logdemo\\logdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8FA9227-B5B4-4454-AFE1-FEF480DEDEDB}|LogDemo\\LogDemo.csproj|solutionrelative:logdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA9227-B5B4-4454-AFE1-FEF480DEDEDB}|LogDemo\\LogDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\logdemo\\logdemo\\logs\\log20250616.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8FA9227-B5B4-4454-AFE1-FEF480DEDEDB}|LogDemo\\LogDemo.csproj|solutionrelative:logdemo\\logs\\log20250616.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA9227-B5B4-4454-AFE1-FEF480DEDEDB}|LogDemo\\LogDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\logdemo\\logdemo\\controllers\\mylogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FA9227-B5B4-4454-AFE1-FEF480DEDEDB}|LogDemo\\LogDemo.csproj|solutionrelative:logdemo\\controllers\\mylogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA9227-B5B4-4454-AFE1-FEF480DEDEDB}|LogDemo\\LogDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\logdemo\\logdemo\\logs\\log20250616.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A8FA9227-B5B4-4454-AFE1-FEF480DEDEDB}|LogDemo\\LogDemo.csproj|solutionrelative:logdemo\\logs\\log20250616.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA9227-B5B4-4454-AFE1-FEF480DEDEDB}|LogDemo\\LogDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\logdemo\\logdemo\\views\\mylog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8FA9227-B5B4-4454-AFE1-FEF480DEDEDB}|LogDemo\\LogDemo.csproj|solutionrelative:logdemo\\views\\mylog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA9227-B5B4-4454-AFE1-FEF480DEDEDB}|LogDemo\\LogDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\logdemo\\logdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FA9227-B5B4-4454-AFE1-FEF480DEDEDB}|LogDemo\\LogDemo.csproj|solutionrelative:logdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2363,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "log20250616.txt",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\LogDemo\\LogDemo\\Logs\\log20250616.txt",
+              "RelativeDocumentMoniker": "LogDemo\\Logs\\log20250616.txt",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\LogDemo\\LogDemo\\Logs\\log20250616.txt",
+              "RelativeToolTip": "LogDemo\\Logs\\log20250616.txt",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-16T10:01:07.753Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "log20250616.json",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\LogDemo\\LogDemo\\Logs\\log20250616.json",
+              "RelativeDocumentMoniker": "LogDemo\\Logs\\log20250616.json",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\LogDemo\\LogDemo\\Logs\\log20250616.json",
+              "RelativeToolTip": "LogDemo\\Logs\\log20250616.json",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAAMAAADFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T10:08:20.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\LogDemo\\LogDemo\\Program.cs",
+              "RelativeDocumentMoniker": "LogDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\LogDemo\\LogDemo\\Program.cs*",
+              "RelativeToolTip": "LogDemo\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:40:16.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyLogController.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\LogDemo\\LogDemo\\Controllers\\MyLogController.cs",
+              "RelativeDocumentMoniker": "LogDemo\\Controllers\\MyLogController.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\LogDemo\\LogDemo\\Controllers\\MyLogController.cs",
+              "RelativeToolTip": "LogDemo\\Controllers\\MyLogController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:03:09.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\LogDemo\\LogDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "LogDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\LogDemo\\LogDemo\\appsettings.json",
+              "RelativeToolTip": "LogDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T09:03:49.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\LogDemo\\LogDemo\\Views\\MyLog\\Index.cshtml",
+              "RelativeDocumentMoniker": "LogDemo\\Views\\MyLog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\LogDemo\\LogDemo\\Views\\MyLog\\Index.cshtml",
+              "RelativeToolTip": "LogDemo\\Views\\MyLog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T09:09:23.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\LogDemo\\LogDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LogDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\LogDemo\\LogDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LogDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:02:44.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1031,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

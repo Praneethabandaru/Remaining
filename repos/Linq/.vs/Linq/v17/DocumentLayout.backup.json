@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42D8B91A-6ECF-4340-890B-C29E4CD09634}|Linq\\Linq.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D8B91A-6ECF-4340-890B-C29E4CD09634}|Linq\\Linq.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D8B91A-6ECF-4340-890B-C29E4CD09634}|Linq\\Linq.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\linq\\linq\\copydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D8B91A-6ECF-4340-890B-C29E4CD09634}|Linq\\Linq.csproj|solutionrelative:linq\\copydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D8B91A-6ECF-4340-890B-C29E4CD09634}|Linq\\Linq.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\linq\\linq\\linqdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D8B91A-6ECF-4340-890B-C29E4CD09634}|Linq\\Linq.csproj|solutionrelative:linq\\linqdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D8B91A-6ECF-4340-890B-C29E4CD09634}|Linq\\Linq.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\linq\\linq\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D8B91A-6ECF-4340-890B-C29E4CD09634}|Linq\\Linq.csproj|solutionrelative:linq\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Linq\\Linq\\Products.cs",
+              "RelativeDocumentMoniker": "Linq\\Products.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Linq\\Linq\\Products.cs",
+              "RelativeToolTip": "Linq\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:34:25.036Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinqDemo.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Linq\\Linq\\LinqDemo.cs",
+              "RelativeDocumentMoniker": "Linq\\LinqDemo.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Linq\\Linq\\LinqDemo.cs",
+              "RelativeToolTip": "Linq\\LinqDemo.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAowLYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:25:21.101Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "copydemo.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Linq\\Linq\\copydemo.cs",
+              "RelativeDocumentMoniker": "Linq\\copydemo.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Linq\\Linq\\copydemo.cs",
+              "RelativeToolTip": "Linq\\copydemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:09:58.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Linq\\Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Linq\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Linq\\Linq\\Program.cs*",
+              "RelativeToolTip": "Linq\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:24:49.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

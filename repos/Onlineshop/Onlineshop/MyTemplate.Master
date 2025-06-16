@@ -1,0 +1,102 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MyTemplate.master.cs" Inherits="Onlineshop.MyTemplate" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            height: 42px;
+        }
+        .auto-style2 {
+            width: 217px;
+        }
+        .auto-style3 {
+            height: 42px;
+            width: 336px;
+        }
+        .auto-style4 {
+            width: 336px;
+        }
+        .auto-style5 {
+            height: 23px;
+        }
+        .auto-style6 {
+            width: 217px;
+            height: 23px;
+        }
+        .auto-style7 {
+            width: 336px;
+            height: 23px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+        </div>
+        <table style="width: 100%;">
+            <tr>
+                <td class="auto-style1" colspan="4">
+                    <asp:Image ID="Image1" runat="server" Height="430px" ImageUrl="~/banner1.jpg" Width="1176px" />
+                </td>
+                <td class="auto-style3"></td>
+                <td class="auto-style1">&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td class="auto-style2">&nbsp;</td>
+                <td class="auto-style4">&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style5" style="background-color: #66FFCC; font-size: small; font-weight: bold; font-family: 'Times New Roman', Times, serif; text-decoration: none; text-transform: capitalize; color: #FF0000;">
+                    <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Home.aspx">Home</asp:HyperLink>
+                </td>
+                <td class="auto-style5" style="background-color: #66FFCC; font-size: small; font-weight: bold; font-family: 'Times New Roman', Times, serif; text-decoration: none; text-transform: capitalize; color: #FF0000;">
+                    <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Login.aspx">Login</asp:HyperLink>
+                </td>
+                <td class="auto-style5" style="background-color: #66FFCC; font-size: small; font-weight: bold; font-family: 'Times New Roman', Times, serif; text-decoration: none; text-transform: capitalize; color: #FF0000;">
+                    <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Register.aspx">Register</asp:HyperLink>
+                </td>
+                <td class="auto-style6" style="background-color: #66FFCC; font-size: small; font-weight: bold; font-family: 'Times New Roman', Times, serif; text-decoration: none; text-transform: capitalize; color: #FF0000;">
+                    <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/Products.aspx">Products</asp:HyperLink>
+                </td>
+                <td class="auto-style7" style="background-color: #66FFCC; font-size: small; font-weight: bold; font-family: 'Times New Roman', Times, serif; text-decoration: none; text-transform: capitalize; color: #FF0000;">
+                    <asp:HyperLink ID="HyperLink5" runat="server" ForeColor="#CC00FF" NavigateUrl="~/Buy.aspx">Buy</asp:HyperLink>
+                </td>
+                <td class="auto-style5"></td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td class="auto-style2">&nbsp;</td>
+                <td class="auto-style4">&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="4">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+                </td>
+                <td class="auto-style4">&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td class="auto-style2">&nbsp;</td>
+                <td class="auto-style4">&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

@@ -1,0 +1,26 @@
+﻿@{
+    var rental = ViewBag.Rental as CarRentalApp.Models.Rental;
+    var vehicle = ViewBag.Vehicle as CarRentalApp.Models.Vehicle;
+    int totalprice = ViewBag.TotalPrice;
+}
+
+<h2>Booking Confirmation</h2>
+<p>Vehicle: @vehicle.Brand @vehicle.Model</p>
+<p>Start Date: @rental.StartDate</p>
+<p>End Date: @rental.EndDate</p>
+<p>Days: @ViewBag.Days</p>
+<p>Price per Day: @ViewBag.PricePerDay</p>
+<p><strong>Total Price: @ViewBag.TotalPrice</strong></p>
+
+<form asp-action="ProcessPayment" method="post">
+    <input type="hidden" name="rentalId" value="@rental.RentalId" />
+    <input type="hidden" name="amount" value="@totalprice" />
+    <label>Payment Method:</label>
+    <select name="paymentMethod" required>
+        <option value="Credit Card">Credit Card</option>
+        <option value="Debit Card">Debit Card</option>
+        <option value="Cash">Cash</option>
+    </select>
+    <br />
+    <button type="submit" class="btn btn-warning">Pay Now</button>
+</form>

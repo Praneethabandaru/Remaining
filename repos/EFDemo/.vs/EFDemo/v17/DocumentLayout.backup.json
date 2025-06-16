@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\efdemo\\efdemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\efdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\efdemo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\efdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\efdemo\\efdemo\\myorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\myorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\efdemo\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\efdemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\efdemo\\mycustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F74916F-77BD-4608-B20F-D2FE92D3F92D}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\mycustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 721,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\Class1.cs",
+              "RelativeDocumentMoniker": "EFDemo\\Class1.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\Class1.cs*",
+              "RelativeToolTip": "EFDemo\\Class1.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:17:34.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Myorders.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\Myorders.cs",
+              "RelativeDocumentMoniker": "EFDemo\\Myorders.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\Myorders.cs",
+              "RelativeToolTip": "EFDemo\\Myorders.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAgwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:11:37.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyCustomers.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\MyCustomers.cs",
+              "RelativeDocumentMoniker": "EFDemo\\MyCustomers.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\MyCustomers.cs",
+              "RelativeToolTip": "EFDemo\\MyCustomers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:24:29.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "customer.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\customer.cs",
+              "RelativeDocumentMoniker": "EFDemo\\customer.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\customer.cs",
+              "RelativeToolTip": "EFDemo\\customer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:23:48.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\App.config",
+              "RelativeDocumentMoniker": "EFDemo\\App.config",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\App.config",
+              "RelativeToolTip": "EFDemo\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-28T07:13:06.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "EFDemo\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\Model1.Context.cs",
+              "RelativeToolTip": "EFDemo\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:09:48.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\Model1.edmx",
+              "RelativeDocumentMoniker": "EFDemo\\Model1.edmx",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "EFDemo\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-28T06:57:40.069Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EFDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\EFDemo\\EFDemo\\Program.cs",
+              "RelativeToolTip": "EFDemo\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:41:11.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

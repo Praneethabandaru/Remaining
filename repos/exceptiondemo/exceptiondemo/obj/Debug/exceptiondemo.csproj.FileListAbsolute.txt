@@ -1,0 +1,7 @@
+C:\Users\bandaru.praneetha\source\repos\exceptiondemo\exceptiondemo\bin\Debug\exceptiondemo.exe.config
+C:\Users\bandaru.praneetha\source\repos\exceptiondemo\exceptiondemo\bin\Debug\exceptiondemo.exe
+C:\Users\bandaru.praneetha\source\repos\exceptiondemo\exceptiondemo\bin\Debug\exceptiondemo.pdb
+C:\Users\bandaru.praneetha\source\repos\exceptiondemo\exceptiondemo\obj\Debug\exceptiondemo.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\exceptiondemo\exceptiondemo\obj\Debug\exceptiondemo.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\exceptiondemo\exceptiondemo\obj\Debug\exceptiondemo.exe
+C:\Users\bandaru.praneetha\source\repos\exceptiondemo\exceptiondemo\obj\Debug\exceptiondemo.pdb

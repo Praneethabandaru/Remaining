@@ -1,0 +1,8 @@
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\MyCoreApp\bin\Release\net9.0\publish\win-x64\MyCoreApp.exe
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\MyCoreApp\bin\Release\net9.0\publish\win-x64\MyCoreApp.dll
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\MyCoreApp\bin\Release\net9.0\publish\win-x64\MyCoreApp.deps.json
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\MyCoreApp\bin\Release\net9.0\publish\win-x64\MyCoreApp.runtimeconfig.json
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\MyCoreApp\bin\Release\net9.0\publish\win-x64\MyCoreApp.pdb
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\MyCoreApp\bin\Release\net9.0\publish\win-x64\Newtonsoft.Json.dll
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\MyCoreApp\bin\Release\net9.0\publish\win-x64\mycorelibrary.dll
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\MyCoreApp\bin\Release\net9.0\publish\win-x64\mycorelibrary.pdb

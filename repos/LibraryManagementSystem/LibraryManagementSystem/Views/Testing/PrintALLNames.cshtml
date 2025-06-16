@@ -1,0 +1,29 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PrintALLNames</title>
+</head>
+<body>
+    <div> 
+        @{ 
+            var z = ViewData["n"] as Array;
+            foreach(var i in z)
+            {
+                <div>
+                    <ul typeof="disc">
+                        <li>@i</li>
+                    </ul>
+                </div>
+            }
+        }
+
+    </div>
+</body>
+</html>

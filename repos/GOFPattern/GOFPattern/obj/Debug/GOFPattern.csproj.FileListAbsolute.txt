@@ -1,0 +1,7 @@
+C:\Users\bandaru.praneetha\source\repos\GOFPattern\GOFPattern\bin\Debug\GOFPattern.exe.config
+C:\Users\bandaru.praneetha\source\repos\GOFPattern\GOFPattern\bin\Debug\GOFPattern.exe
+C:\Users\bandaru.praneetha\source\repos\GOFPattern\GOFPattern\bin\Debug\GOFPattern.pdb
+C:\Users\bandaru.praneetha\source\repos\GOFPattern\GOFPattern\obj\Debug\GOFPattern.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\GOFPattern\GOFPattern\obj\Debug\GOFPattern.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\GOFPattern\GOFPattern\obj\Debug\GOFPattern.exe
+C:\Users\bandaru.praneetha\source\repos\GOFPattern\GOFPattern\obj\Debug\GOFPattern.pdb

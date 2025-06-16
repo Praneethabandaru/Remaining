@@ -1,0 +1,41 @@
+﻿@model LibraryManagementSystem.Models.Member
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+ b                                                                                                         
+<h2>Register</h2>
+<div style="margin-left:200px;width:500px">
+    @using (Html.BeginForm(null, null, FormMethod.Post))
+    {
+        @Html.LabelFor(c => c.uname, "Username")
+        @Html.TextBoxFor(c => c.uname, new { @class = "form-control" })
+        @Html.ValidationMessageFor(c => c.uname)
+
+        @Html.LabelFor(c => c.pwd, "Password")
+        @Html.TextBoxFor(c => c.pwd, new { @class = "form-control", @type = "password" })
+        @Html.ValidationMessageFor(c => c.pwd)
+
+        @Html.LabelFor(c => c.FullName, "FullName")
+        @Html.TextBoxFor(c => c.FullName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(c => c.FullName)
+
+        @Html.LabelFor(c => c.Email, "Email")
+        @Html.TextBoxFor(c => c.Email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(c => c.Email)
+
+        @Html.LabelFor(c => c.Phone, "Phone")
+        @Html.TextBoxFor(c => c.Phone, new { @class = "form-control" })
+        @Html.ValidationMessageFor(c => c.Phone)
+
+        <input type="submit" value="Register" class="btn btn-primary" />
+    }
+
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+
+</div>

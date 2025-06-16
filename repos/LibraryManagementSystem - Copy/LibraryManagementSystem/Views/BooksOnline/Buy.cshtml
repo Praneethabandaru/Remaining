@@ -1,0 +1,41 @@
+﻿@model LibraryManagementSystem.Models.Book
+@{
+    ViewBag.Title = "Buy";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<h2>Buy</h2>
+
+@if (Model != null)
+{
+    <div>
+        <strong>Book ID:</strong> @Model.BookID <br />
+        <strong>Title:</strong> @Model.Title <br />
+        <strong>Author:</strong> @Model.Author <br />
+        <strong>Category:</strong> @Model.Category <br />
+        <strong>Published Year:</strong> @Model.PublishedYear <br />
+        <strong>Total Copies:</strong> @Model.TotalCopies <br />
+        <img src="https://tse4.mm.bing.net/th/id/OIP.uo2orvUvnYppgvlsmgTLDgHaE8?w=720&h=480&rs=1&pid=ImgDetMain" height="100px" width="100px" />
+        <br />
+
+        <h4>Enter Borrow Details</h4>
+
+        @using (Html.BeginForm("Buy", "BooksOnline", FormMethod.Post))
+        {
+            <input type="hidden" name="BookID" value="@Model.BookID" />
+
+            <label for="borrowDate">Borrow Date:</label>
+            <input type="date" id="borrowDate" name="BorrowDate" class="form-control" required />
+
+            <label for="dueDate">Due Date:</label>
+            <input type="date" id="dueDate" name="DueDate" class="form-control" required />
+
+            <br />
+            <input type="submit" value="Confirm Rental" class="btn btn-success" />
+        }
+    </div>
+}
+else
+{
+    <p style="color: red;">Book details not available.</p>
+}

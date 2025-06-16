@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\TPLDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{682584AD-E6D2-48D9-9A24-CB09EAB9FAC2}|TPLDemo\\TPLDemo.csproj|C:\\Users\\bandaru.praneetha\\source\\repos\\TPLDemo\\tpldemo\\paralleldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682584AD-E6D2-48D9-9A24-CB09EAB9FAC2}|TPLDemo\\TPLDemo.csproj|solutionrelative:tpldemo\\paralleldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682584AD-E6D2-48D9-9A24-CB09EAB9FAC2}|TPLDemo\\TPLDemo.csproj|C:\\Users\\bandaru.praneetha\\source\\repos\\TPLDemo\\tpldemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682584AD-E6D2-48D9-9A24-CB09EAB9FAC2}|TPLDemo\\TPLDemo.csproj|solutionrelative:tpldemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682584AD-E6D2-48D9-9A24-CB09EAB9FAC2}|TPLDemo\\TPLDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\tpldemo\\tpldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682584AD-E6D2-48D9-9A24-CB09EAB9FAC2}|TPLDemo\\TPLDemo.csproj|solutionrelative:tpldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682584AD-E6D2-48D9-9A24-CB09EAB9FAC2}|TPLDemo\\TPLDemo.csproj|C:\\Users\\bandaru.praneetha\\source\\repos\\TPLDemo\\tpldemo\\assigndemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682584AD-E6D2-48D9-9A24-CB09EAB9FAC2}|TPLDemo\\TPLDemo.csproj|solutionrelative:tpldemo\\assigndemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 721,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\TPLDemo\\TPLDemo\\Program.cs",
+              "RelativeDocumentMoniker": "TPLDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\TPLDemo\\TPLDemo\\Program.cs",
+              "RelativeToolTip": "TPLDemo\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:49:14.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\TPLDemo\\TPLDemo\\Class1.cs",
+              "RelativeDocumentMoniker": "TPLDemo\\Class1.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\TPLDemo\\TPLDemo\\Class1.cs",
+              "RelativeToolTip": "TPLDemo\\Class1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:01:30.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Paralleldemo.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\TPLDemo\\TPLDemo\\Paralleldemo.cs",
+              "RelativeDocumentMoniker": "TPLDemo\\Paralleldemo.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\TPLDemo\\TPLDemo\\Paralleldemo.cs",
+              "RelativeToolTip": "TPLDemo\\Paralleldemo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:57:43.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "assigndemo.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\TPLDemo\\TPLDemo\\assigndemo.cs",
+              "RelativeDocumentMoniker": "TPLDemo\\assigndemo.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\TPLDemo\\TPLDemo\\assigndemo.cs",
+              "RelativeToolTip": "TPLDemo\\assigndemo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:46:50.854Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

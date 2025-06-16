@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\day-2 assign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E055C62-D4B3-4529-AB59-EEA995AFDB36}|day-2 assign\\day-2 assign.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\day-2 assign\\day-2 assign\\arrayassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E055C62-D4B3-4529-AB59-EEA995AFDB36}|day-2 assign\\day-2 assign.csproj|solutionrelative:day-2 assign\\arrayassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E055C62-D4B3-4529-AB59-EEA995AFDB36}|day-2 assign\\day-2 assign.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\day-2 assign\\day-2 assign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E055C62-D4B3-4529-AB59-EEA995AFDB36}|day-2 assign\\day-2 assign.csproj|solutionrelative:day-2 assign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "arrayassign.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\day-2 assign\\day-2 assign\\arrayassign.cs",
+              "RelativeDocumentMoniker": "day-2 assign\\arrayassign.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\day-2 assign\\day-2 assign\\arrayassign.cs",
+              "RelativeToolTip": "day-2 assign\\arrayassign.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAGYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:50:18.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\day-2 assign\\day-2 assign\\Program.cs",
+              "RelativeDocumentMoniker": "day-2 assign\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\day-2 assign\\day-2 assign\\Program.cs",
+              "RelativeToolTip": "day-2 assign\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:48:14.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+    <div> 
+        <form method="post">
+            <input type="text" name="id" />
+            <input type="submit" value="Delete" /> 
+        </form>
+        @if(@Model>0)
+         {
+               <h1>Total record delete is @Model</h1>
+         }
+    </div>
+</body>
+</html>

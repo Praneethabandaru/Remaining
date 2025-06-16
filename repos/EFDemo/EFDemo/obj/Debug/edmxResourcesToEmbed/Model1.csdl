@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="b248dbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="customer">
+    <Key>
+      <PropertyRef Name="custid" />
+    </Key>
+    <Property Name="custid" Type="Int32" Nullable="false" />
+    <Property Name="custname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="dob" Type="DateTime" Precision="0" />
+    <Property Name="caddress" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="cphone" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+    <Property Name="ts" Type="Binary" MaxLength="8" FixedLength="true" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+    <Property Name="pan" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="orders" Relationship="b248dbModel.constraintname" FromRole="customer" ToRole="order" />
+    <NavigationProperty Name="orders1" Relationship="b248dbModel.FK__orders__custid__14270015" FromRole="customer" ToRole="order" />
+  </EntityType>
+  <EntityContainer Name="b248dbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="customers" EntityType="Self.customer" />
+    <EntitySet Name="orders" EntityType="b248dbModel.order" />
+    <AssociationSet Name="constraintname" Association="b248dbModel.constraintname">
+      <End Role="customer" EntitySet="customers" />
+      <End Role="order" EntitySet="orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK__orders__custid__14270015" Association="b248dbModel.FK__orders__custid__14270015">
+      <End Role="customer" EntitySet="customers" />
+      <End Role="order" EntitySet="orders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="order">
+    <Key>
+      <PropertyRef Name="orderid" />
+    </Key>
+    <Property Name="orderid" Type="Int32" Nullable="false" />
+    <Property Name="orderdate" Type="DateTime" Precision="0" />
+    <Property Name="orderlocation" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="productname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="custid" Type="Int32" />
+    <NavigationProperty Name="customer" Relationship="b248dbModel.constraintname" FromRole="order" ToRole="customer" />
+    <NavigationProperty Name="customer1" Relationship="b248dbModel.FK__orders__custid__14270015" FromRole="order" ToRole="customer" />
+    <Property Name="price" Type="Int32" />
+  </EntityType>
+  <Association Name="constraintname">
+    <End Type="b248dbModel.customer" Role="customer" Multiplicity="0..1" />
+    <End Type="b248dbModel.order" Role="order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="customer">
+        <PropertyRef Name="custid" />
+      </Principal>
+      <Dependent Role="order">
+        <PropertyRef Name="custid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__orders__custid__14270015">
+    <End Type="b248dbModel.customer" Role="customer" Multiplicity="0..1" />
+    <End Type="b248dbModel.order" Role="order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="customer">
+        <PropertyRef Name="custid" />
+      </Principal>
+      <Dependent Role="order">
+        <PropertyRef Name="custid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

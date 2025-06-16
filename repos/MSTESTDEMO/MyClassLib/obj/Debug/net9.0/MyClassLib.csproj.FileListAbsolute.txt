@@ -1,0 +1,11 @@
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\MyClassLib\bin\Debug\net9.0\MyClassLib.deps.json
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\MyClassLib\bin\Debug\net9.0\MyClassLib.dll
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\MyClassLib\bin\Debug\net9.0\MyClassLib.pdb
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\MyClassLib\obj\Debug\net9.0\MyClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\MyClassLib\obj\Debug\net9.0\MyClassLib.AssemblyInfoInputs.cache
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\MyClassLib\obj\Debug\net9.0\MyClassLib.AssemblyInfo.cs
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\MyClassLib\obj\Debug\net9.0\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\MyClassLib\obj\Debug\net9.0\MyClassLib.dll
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\MyClassLib\obj\Debug\net9.0\refint\MyClassLib.dll
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\MyClassLib\obj\Debug\net9.0\MyClassLib.pdb
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\MyClassLib\obj\Debug\net9.0\ref\MyClassLib.dll

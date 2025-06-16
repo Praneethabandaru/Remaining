@@ -1,0 +1,7 @@
+C:\Users\bandaru.praneetha\source\repos\HandlingFiles\HandlingFiles\obj\Debug\HandlingFiles.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\HandlingFiles\HandlingFiles\obj\Debug\HandlingFiles.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\HandlingFiles\HandlingFiles\bin\Debug\HandlingFiles.exe.config
+C:\Users\bandaru.praneetha\source\repos\HandlingFiles\HandlingFiles\bin\Debug\HandlingFiles.exe
+C:\Users\bandaru.praneetha\source\repos\HandlingFiles\HandlingFiles\bin\Debug\HandlingFiles.pdb
+C:\Users\bandaru.praneetha\source\repos\HandlingFiles\HandlingFiles\obj\Debug\HandlingFiles.exe
+C:\Users\bandaru.praneetha\source\repos\HandlingFiles\HandlingFiles\obj\Debug\HandlingFiles.pdb

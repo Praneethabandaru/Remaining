@@ -1,0 +1,40 @@
+﻿@model LibraryManagementSystem.Models.BorrowTransaction
+@{
+    ViewBag.Title = "Return";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<h2>Return</h2>
+
+@if (Model != null)
+{
+    <div>
+        <strong>Book ID:</strong> @Model.BookID <br />
+        <strong>Borrow Date:</strong> @Model.BorrowDate.ToShortDateString() <br />
+        <strong>Due Date:</strong> @Model.DueDate.ToShortDateString() <br />
+        <strong>Return Date:</strong> @(Model.ReturnDate?.ToShortDateString() ?? "Not returned yet") <br />
+        <strong>Fine:</strong> @(Model.fine > 0 ? $"₹{Model.fine}" : "No Fine") <br />
+
+        @if (Model.ReturnDate == null)
+        {
+            @*@using (Html.BeginForm("Return", "BooksOnline", FormMethod.Post))*@
+            @Html.BeginForm("Return", "BooksOnline", FormMethod.Post)
+            {
+                @Html.Hidden("TransactionID", Model.TransactionID)
+                <label>Return Date:</label>
+                <input type="date" name="ReturnDate" required class="form-control" />
+                <br />
+                <input type="submit" value="Return Book" class="btn btn-success" />
+            }
+        }
+        <a href="@Url.Action("Products", "BooksOnline")" class="btn btn-danger">Exit</a>
+    </div>
+}
+else
+{
+    <p style="color: red;">Transaction details not available.</p>
+}
+
+
+
+

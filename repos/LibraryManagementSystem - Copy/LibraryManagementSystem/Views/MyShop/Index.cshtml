@@ -1,0 +1,29 @@
+﻿
+@model List<LibraryManagementSystem.Models.product> 
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>Product Details</h1>
+        <hr />
+
+        @foreach (var item in Model)
+        {
+            @item.pid <br />
+            @item.pname <br />
+            @item.description <br />
+            @item.price <br />
+        }
+
+    </div>
+</body>
+</html>

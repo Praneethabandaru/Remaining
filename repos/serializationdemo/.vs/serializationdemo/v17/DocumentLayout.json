@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\serializationdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D031550-FA9E-4534-8350-F1844669BF8E}|serializationdemo\\serializationdemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\serializationdemo\\serializationdemo\\reflectiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D031550-FA9E-4534-8350-F1844669BF8E}|serializationdemo\\serializationdemo.csproj|solutionrelative:serializationdemo\\reflectiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D031550-FA9E-4534-8350-F1844669BF8E}|serializationdemo\\serializationdemo.csproj|C:\\Users\\bandaru.praneetha\\source\\repos\\serializationdemo\\serializationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D031550-FA9E-4534-8350-F1844669BF8E}|serializationdemo\\serializationdemo.csproj|solutionrelative:serializationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE653777-F4F4-4B7D-A093-88268DD6C869}|mylib\\mylib.csproj|C:\\Users\\bandaru.praneetha\\source\\repos\\serializationdemo\\mylib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE653777-F4F4-4B7D-A093-88268DD6C869}|mylib\\mylib.csproj|solutionrelative:mylib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D031550-FA9E-4534-8350-F1844669BF8E}|serializationdemo\\serializationdemo.csproj|C:\\Users\\bandaru.praneetha\\source\\repos\\serializationdemo\\serializationdemo\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D031550-FA9E-4534-8350-F1844669BF8E}|serializationdemo\\serializationdemo.csproj|solutionrelative:serializationdemo\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE653777-F4F4-4B7D-A093-88268DD6C869}|mylib\\mylib.csproj|C:\\Users\\bandaru.praneetha\\source\\repos\\serializationdemo\\mylib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE653777-F4F4-4B7D-A093-88268DD6C869}|mylib\\mylib.csproj|solutionrelative:mylib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\serializationdemo\\mylib\\Class1.cs",
+              "RelativeDocumentMoniker": "mylib\\Class1.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\serializationdemo\\mylib\\Class1.cs",
+              "RelativeToolTip": "mylib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:49:58.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\serializationdemo\\mylib\\Program.cs",
+              "RelativeDocumentMoniker": "mylib\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\serializationdemo\\mylib\\Program.cs",
+              "RelativeToolTip": "mylib\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:49:11.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyClass.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\serializationdemo\\serializationdemo\\MyClass.cs",
+              "RelativeDocumentMoniker": "serializationdemo\\MyClass.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\serializationdemo\\serializationdemo\\MyClass.cs",
+              "RelativeToolTip": "serializationdemo\\MyClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:31:22.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReflectionDemo.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\serializationdemo\\serializationdemo\\ReflectionDemo.cs",
+              "RelativeDocumentMoniker": "serializationdemo\\ReflectionDemo.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\serializationdemo\\serializationdemo\\ReflectionDemo.cs",
+              "RelativeToolTip": "serializationdemo\\ReflectionDemo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:28:21.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\serializationdemo\\serializationdemo\\Program.cs",
+              "RelativeDocumentMoniker": "serializationdemo\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\serializationdemo\\serializationdemo\\Program.cs",
+              "RelativeToolTip": "serializationdemo\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwC4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:39:26.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

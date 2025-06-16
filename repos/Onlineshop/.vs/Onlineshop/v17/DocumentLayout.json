@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\onlineshop\\onlineshop\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|solutionrelative:onlineshop\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\onlineshop\\onlineshop\\buy.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|solutionrelative:onlineshop\\buy.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\onlineshop\\onlineshop\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|solutionrelative:onlineshop\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\onlineshop\\onlineshop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|solutionrelative:onlineshop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\onlineshop\\onlineshop\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|solutionrelative:onlineshop\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\onlineshop\\onlineshop\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|solutionrelative:onlineshop\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\onlineshop\\onlineshop\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|solutionrelative:onlineshop\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\onlineshop\\onlineshop\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|solutionrelative:onlineshop\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\onlineshop\\onlineshop\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|solutionrelative:onlineshop\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\onlineshop\\onlineshop\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|solutionrelative:onlineshop\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\onlineshop\\onlineshop\\mytemplate.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|solutionrelative:onlineshop\\mytemplate.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\onlineshop\\onlineshop\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|solutionrelative:onlineshop\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\onlineshop\\onlineshop\\hello.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|solutionrelative:onlineshop\\hello.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\onlineshop\\onlineshop\\hello.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD8A26A1-132D-4D98-AA4D-025F0E7312B0}|Onlineshop\\Onlineshop.csproj|solutionrelative:onlineshop\\hello.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1110,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Onlineshop\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Register.aspx.cs",
+              "RelativeToolTip": "Onlineshop\\Register.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:27:10.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Onlineshop\\Models\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "Onlineshop\\Models\\Model1.Context.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:59:40.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Onlineshop\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Onlineshop\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-06T08:47:06.055Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Web.config",
+              "RelativeDocumentMoniker": "Onlineshop\\Web.config",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Web.config",
+              "RelativeToolTip": "Onlineshop\\Web.config",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwCIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-06T07:16:45.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.aspx",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Products.aspx",
+              "RelativeDocumentMoniker": "Onlineshop\\Products.aspx",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Products.aspx",
+              "RelativeToolTip": "Onlineshop\\Products.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-06T06:36:29.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Onlineshop\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Login.aspx.cs",
+              "RelativeToolTip": "Onlineshop\\Login.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:52:44.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Register.aspx",
+              "RelativeDocumentMoniker": "Onlineshop\\Register.aspx",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Register.aspx",
+              "RelativeToolTip": "Onlineshop\\Register.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-06T06:37:08.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Buy.aspx",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Buy.aspx",
+              "RelativeDocumentMoniker": "Onlineshop\\Buy.aspx",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Buy.aspx",
+              "RelativeToolTip": "Onlineshop\\Buy.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-06T06:36:48.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Login.aspx",
+              "RelativeDocumentMoniker": "Onlineshop\\Login.aspx",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Login.aspx",
+              "RelativeToolTip": "Onlineshop\\Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-06T06:36:17.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Home.aspx",
+              "RelativeDocumentMoniker": "Onlineshop\\Home.aspx",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Home.aspx",
+              "RelativeToolTip": "Onlineshop\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-06T06:36:01.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Onlineshop\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\WebForm1.aspx",
+              "RelativeToolTip": "Onlineshop\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-06T06:35:29.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyTemplate.Master",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\MyTemplate.Master",
+              "RelativeDocumentMoniker": "Onlineshop\\MyTemplate.Master",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\MyTemplate.Master",
+              "RelativeToolTip": "Onlineshop\\MyTemplate.Master",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-06T06:07:03.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Hello.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Hello.aspx.cs",
+              "RelativeDocumentMoniker": "Onlineshop\\Hello.aspx.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Hello.aspx.cs",
+              "RelativeToolTip": "Onlineshop\\Hello.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:19:33.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Hello.aspx",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Hello.aspx",
+              "RelativeDocumentMoniker": "Onlineshop\\Hello.aspx",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\Onlineshop\\Onlineshop\\Hello.aspx",
+              "RelativeToolTip": "Onlineshop\\Hello.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-06T05:08:50.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

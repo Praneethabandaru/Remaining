@@ -1,0 +1,15 @@
+C:\Users\bandaru.praneetha\source\repos\MywinApp\MywinApp\bin\Debug\MywinApp.exe.config
+C:\Users\bandaru.praneetha\source\repos\MywinApp\MywinApp\bin\Debug\MywinApp.exe
+C:\Users\bandaru.praneetha\source\repos\MywinApp\MywinApp\bin\Debug\MywinApp.pdb
+C:\Users\bandaru.praneetha\source\repos\MywinApp\MywinApp\obj\Debug\MywinApp.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\MywinApp\MywinApp\obj\Debug\MywinApp.Form1.resources
+C:\Users\bandaru.praneetha\source\repos\MywinApp\MywinApp\obj\Debug\MywinApp.Properties.Resources.resources
+C:\Users\bandaru.praneetha\source\repos\MywinApp\MywinApp\obj\Debug\MywinApp.csproj.GenerateResource.cache
+C:\Users\bandaru.praneetha\source\repos\MywinApp\MywinApp\obj\Debug\MywinApp.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\MywinApp\MywinApp\obj\Debug\MywinApp.exe
+C:\Users\bandaru.praneetha\source\repos\MywinApp\MywinApp\obj\Debug\MywinApp.pdb
+C:\Users\bandaru.praneetha\source\repos\MywinApp\MywinApp\obj\Debug\MywinApp.Form2.resources
+C:\Users\bandaru.praneetha\source\repos\MywinApp\MywinApp\obj\Debug\MywinApp.Form3.resources
+C:\Users\bandaru.praneetha\source\repos\MywinApp\MywinApp\obj\Debug\MywinApp.MyNotepad.resources
+C:\Users\bandaru.praneetha\source\repos\MywinApp\MywinApp\obj\Debug\MywinApp.Form4.resources
+C:\Users\bandaru.praneetha\source\repos\MywinApp\MywinApp\obj\Debug\MywinApp.RegExDemo.resources

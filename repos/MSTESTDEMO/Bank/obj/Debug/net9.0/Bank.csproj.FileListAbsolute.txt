@@ -1,0 +1,11 @@
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\Bank\bin\Debug\net9.0\Bank.deps.json
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\Bank\bin\Debug\net9.0\Bank.dll
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\Bank\bin\Debug\net9.0\Bank.pdb
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\Bank\obj\Debug\net9.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\Bank\obj\Debug\net9.0\Bank.AssemblyInfoInputs.cache
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\Bank\obj\Debug\net9.0\Bank.AssemblyInfo.cs
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\Bank\obj\Debug\net9.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\Bank\obj\Debug\net9.0\Bank.dll
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\Bank\obj\Debug\net9.0\refint\Bank.dll
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\Bank\obj\Debug\net9.0\Bank.pdb
+C:\Users\bandaru.praneetha\source\repos\MSTESTDEMO\Bank\obj\Debug\net9.0\ref\Bank.dll

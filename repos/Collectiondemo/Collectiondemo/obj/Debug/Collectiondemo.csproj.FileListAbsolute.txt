@@ -1,0 +1,7 @@
+C:\Users\bandaru.praneetha\source\repos\Collectiondemo\Collectiondemo\bin\Debug\Collectiondemo.exe.config
+C:\Users\bandaru.praneetha\source\repos\Collectiondemo\Collectiondemo\bin\Debug\Collectiondemo.exe
+C:\Users\bandaru.praneetha\source\repos\Collectiondemo\Collectiondemo\bin\Debug\Collectiondemo.pdb
+C:\Users\bandaru.praneetha\source\repos\Collectiondemo\Collectiondemo\obj\Debug\Collectiondemo.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\Collectiondemo\Collectiondemo\obj\Debug\Collectiondemo.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\Collectiondemo\Collectiondemo\obj\Debug\Collectiondemo.exe
+C:\Users\bandaru.praneetha\source\repos\Collectiondemo\Collectiondemo\obj\Debug\Collectiondemo.pdb

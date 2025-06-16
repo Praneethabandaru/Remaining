@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\DatabaseFirstDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45600FEB-407F-487C-8DDB-38FD49BF4404}|DatabaseFirstDemo\\DatabaseFirstDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\databasefirstdemo\\databasefirstdemo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{45600FEB-407F-487C-8DDB-38FD49BF4404}|DatabaseFirstDemo\\DatabaseFirstDemo.csproj|solutionrelative:databasefirstdemo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45600FEB-407F-487C-8DDB-38FD49BF4404}|DatabaseFirstDemo\\DatabaseFirstDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\databasefirstdemo\\databasefirstdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{45600FEB-407F-487C-8DDB-38FD49BF4404}|DatabaseFirstDemo\\DatabaseFirstDemo.csproj|solutionrelative:databasefirstdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45600FEB-407F-487C-8DDB-38FD49BF4404}|DatabaseFirstDemo\\DatabaseFirstDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\databasefirstdemo\\databasefirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45600FEB-407F-487C-8DDB-38FD49BF4404}|DatabaseFirstDemo\\DatabaseFirstDemo.csproj|solutionrelative:databasefirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45600FEB-407F-487C-8DDB-38FD49BF4404}|DatabaseFirstDemo\\DatabaseFirstDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\databasefirstdemo\\databasefirstdemo\\efcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45600FEB-407F-487C-8DDB-38FD49BF4404}|DatabaseFirstDemo\\DatabaseFirstDemo.csproj|solutionrelative:databasefirstdemo\\efcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 721,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\DatabaseFirstDemo\\DatabaseFirstDemo\\Model1.edmx",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo\\Model1.edmx",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\DatabaseFirstDemo\\DatabaseFirstDemo\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "DatabaseFirstDemo\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-30T11:04:29.98Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\DatabaseFirstDemo\\DatabaseFirstDemo\\App.config",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo\\App.config",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\DatabaseFirstDemo\\DatabaseFirstDemo\\App.config",
+              "RelativeToolTip": "DatabaseFirstDemo\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-30T11:03:37.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFCls.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\DatabaseFirstDemo\\DatabaseFirstDemo\\EFCls.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo\\EFCls.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\DatabaseFirstDemo\\DatabaseFirstDemo\\EFCls.cs*",
+              "RelativeToolTip": "DatabaseFirstDemo\\EFCls.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:01:11.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\DatabaseFirstDemo\\DatabaseFirstDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\DatabaseFirstDemo\\DatabaseFirstDemo\\Program.cs",
+              "RelativeToolTip": "DatabaseFirstDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T10:58:57.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

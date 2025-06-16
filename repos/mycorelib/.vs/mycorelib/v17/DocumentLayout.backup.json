@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\mycorelib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9149A72-67D1-4D31-98DD-5FE9B107B0FA}|mycorelib\\mycorelib.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\mycorelib\\mycorelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9149A72-67D1-4D31-98DD-5FE9B107B0FA}|mycorelib\\mycorelib.csproj|solutionrelative:mycorelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\mycorelib\\mycorelib\\Class1.cs",
+              "RelativeDocumentMoniker": "mycorelib\\Class1.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\mycorelib\\mycorelib\\Class1.cs",
+              "RelativeToolTip": "mycorelib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:11:30.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

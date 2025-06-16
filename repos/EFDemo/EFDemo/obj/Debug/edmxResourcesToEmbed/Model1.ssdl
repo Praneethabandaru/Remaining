@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="b248dbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="customers">
+    <Key>
+      <PropertyRef Name="custid" />
+    </Key>
+    <Property Name="custid" Type="int" Nullable="false" />
+    <Property Name="custname" Type="varchar" MaxLength="20" />
+    <Property Name="dob" Type="date" />
+    <Property Name="caddress" Type="varchar" MaxLength="50" />
+    <Property Name="cphone" Type="varchar" MaxLength="12" />
+    <Property Name="ts" Type="timestamp" StoreGeneratedPattern="Computed" Nullable="false" />
+    <Property Name="pan" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="orders">
+    <Key>
+      <PropertyRef Name="orderid" />
+    </Key>
+    <Property Name="orderid" Type="int" Nullable="false" />
+    <Property Name="orderdate" Type="date" />
+    <Property Name="orderlocation" Type="varchar" MaxLength="20" />
+    <Property Name="productname" Type="varchar" MaxLength="20" />
+    <Property Name="custid" Type="int" />
+    <Property Name="price" Type="int" />
+  </EntityType>
+  <Association Name="constraintname">
+    <End Role="customers" Type="Self.customers" Multiplicity="0..1" />
+    <End Role="orders" Type="Self.orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="customers">
+        <PropertyRef Name="custid" />
+      </Principal>
+      <Dependent Role="orders">
+        <PropertyRef Name="custid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__orders__custid__14270015">
+    <End Role="customers" Type="Self.customers" Multiplicity="0..1" />
+    <End Role="orders" Type="Self.orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="customers">
+        <PropertyRef Name="custid" />
+      </Principal>
+      <Dependent Role="orders">
+        <PropertyRef Name="custid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="b248dbModelStoreContainer">
+    <EntitySet Name="customers" EntityType="Self.customers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="orders" EntityType="Self.orders" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="constraintname" Association="Self.constraintname">
+      <End Role="customers" EntitySet="customers" />
+      <End Role="orders" EntitySet="orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK__orders__custid__14270015" Association="Self.FK__orders__custid__14270015">
+      <End Role="customers" EntitySet="customers" />
+      <End Role="orders" EntitySet="orders" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

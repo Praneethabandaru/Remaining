@@ -1,0 +1,47 @@
+﻿@model CarRentalApp.Models.Vehicle
+
+<h2>Rent a Car</h2>
+
+ <form asp-action="AddRentalToBase" method="post"> 
+    <input type="hidden" name="vehicleId" value="@Model.VehicleId" /> 
+    <div> 
+        <label>Start Date:</label> 
+         <input type="date" name="startDate" required /> 
+   </div> 
+    <div> 
+       <label>End Date:</label> 
+         <input type="date" name="endDate" /> 
+    </div> 
+     <div> 
+        @*  @{  *@
+        @*      var status = Model.Status ?? "";  *@
+        @*  }  *@
+        @* <select name="status" required>  *@
+        @*      @if (status == "Available")  *@
+        @*     {  *@
+        @*        <option value="Available" selected>Available</option>  *@
+        @*    }  *@
+        @*     else  *@
+        @*     {  *@
+        @*          <option value="Available">Available</option>  *@
+        @*      }  *@
+        @*      @if (status == "Rented")  *@
+        @*      {  *@
+        @*         <option value="Rented" selected>Rented</option>  *@
+        @*      }  *@
+        @*      else  *@
+        @*    {  *@
+        @*         <option value="Rented">Rented</option>  *@
+        @*      }  *@
+        @*      @if (status == "Maintenance")  *@
+        @*      {  *@
+        @*          <option value="Maintenance" selected>Maintenance</option>  *@
+        @*      }  *@
+        @*    else  *@
+        @*    {  *@
+        @*         <option value="Maintenance">Maintenance</option>  *@
+        @*   }  *@
+        @* </select>  *@
+    </div> 
+    <button type="submit">Confirm Rental</button> 
+ </form> 

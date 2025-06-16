@@ -1,0 +1,6 @@
+C:\Users\bandaru.praneetha\source\repos\oops\mymathlib\bin\Debug\mymathlib.dll
+C:\Users\bandaru.praneetha\source\repos\oops\mymathlib\bin\Debug\mymathlib.pdb
+C:\Users\bandaru.praneetha\source\repos\oops\mymathlib\obj\Debug\mymathlib.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\oops\mymathlib\obj\Debug\mymathlib.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\oops\mymathlib\obj\Debug\mymathlib.dll
+C:\Users\bandaru.praneetha\source\repos\oops\mymathlib\obj\Debug\mymathlib.pdb

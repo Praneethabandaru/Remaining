@@ -1,0 +1,7 @@
+C:\Users\bandaru.praneetha\source\repos\day4assign\day4assign\obj\Debug\day4assign.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\day4assign\day4assign\obj\Debug\day4assign.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\day4assign\day4assign\bin\Debug\day4assign.exe.config
+C:\Users\bandaru.praneetha\source\repos\day4assign\day4assign\bin\Debug\day4assign.exe
+C:\Users\bandaru.praneetha\source\repos\day4assign\day4assign\bin\Debug\day4assign.pdb
+C:\Users\bandaru.praneetha\source\repos\day4assign\day4assign\obj\Debug\day4assign.exe
+C:\Users\bandaru.praneetha\source\repos\day4assign\day4assign\obj\Debug\day4assign.pdb

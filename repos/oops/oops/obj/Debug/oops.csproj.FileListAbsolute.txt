@@ -1,0 +1,12 @@
+C:\Users\bandaru.praneetha\source\repos\oops\oops\bin\Debug\oops.exe.config
+C:\Users\bandaru.praneetha\source\repos\oops\oops\bin\Debug\oops.exe
+C:\Users\bandaru.praneetha\source\repos\oops\oops\bin\Debug\oops.pdb
+C:\Users\bandaru.praneetha\source\repos\oops\oops\obj\Debug\oops.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\oops\oops\obj\Debug\oops.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\oops\oops\obj\Debug\oops.exe
+C:\Users\bandaru.praneetha\source\repos\oops\oops\obj\Debug\oops.pdb
+C:\Users\bandaru.praneetha\source\repos\oops\oops\bin\Debug\Myclasslib.dll
+C:\Users\bandaru.praneetha\source\repos\oops\oops\bin\Debug\mymathlib.dll
+C:\Users\bandaru.praneetha\source\repos\oops\oops\bin\Debug\Myclasslib.pdb
+C:\Users\bandaru.praneetha\source\repos\oops\oops\bin\Debug\mymathlib.pdb
+C:\Users\bandaru.praneetha\source\repos\oops\oops\obj\Debug\oops.csproj.Up2Date

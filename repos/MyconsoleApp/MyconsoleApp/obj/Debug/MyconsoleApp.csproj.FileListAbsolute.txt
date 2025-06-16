@@ -1,0 +1,7 @@
+C:\Users\bandaru.praneetha\source\repos\MyconsoleApp\MyconsoleApp\bin\Debug\MyconsoleApp.exe.config
+C:\Users\bandaru.praneetha\source\repos\MyconsoleApp\MyconsoleApp\bin\Debug\MyconsoleApp.exe
+C:\Users\bandaru.praneetha\source\repos\MyconsoleApp\MyconsoleApp\bin\Debug\MyconsoleApp.pdb
+C:\Users\bandaru.praneetha\source\repos\MyconsoleApp\MyconsoleApp\obj\Debug\MyconsoleApp.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\MyconsoleApp\MyconsoleApp\obj\Debug\MyconsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\MyconsoleApp\MyconsoleApp\obj\Debug\MyconsoleApp.exe
+C:\Users\bandaru.praneetha\source\repos\MyconsoleApp\MyconsoleApp\obj\Debug\MyconsoleApp.pdb

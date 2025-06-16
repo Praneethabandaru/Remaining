@@ -1,0 +1,7 @@
+C:\Users\bandaru.praneetha\source\repos\staticdemo\staticdemo\bin\Debug\staticdemo.exe.config
+C:\Users\bandaru.praneetha\source\repos\staticdemo\staticdemo\bin\Debug\staticdemo.exe
+C:\Users\bandaru.praneetha\source\repos\staticdemo\staticdemo\bin\Debug\staticdemo.pdb
+C:\Users\bandaru.praneetha\source\repos\staticdemo\staticdemo\obj\Debug\staticdemo.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\staticdemo\staticdemo\obj\Debug\staticdemo.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\staticdemo\staticdemo\obj\Debug\staticdemo.exe
+C:\Users\bandaru.praneetha\source\repos\staticdemo\staticdemo\obj\Debug\staticdemo.pdb

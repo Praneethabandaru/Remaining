@@ -1,0 +1,7 @@
+C:\Users\bandaru.praneetha\source\repos\day-2 assign\day-2 assign\bin\Debug\day-2 assign.exe.config
+C:\Users\bandaru.praneetha\source\repos\day-2 assign\day-2 assign\bin\Debug\day-2 assign.exe
+C:\Users\bandaru.praneetha\source\repos\day-2 assign\day-2 assign\bin\Debug\day-2 assign.pdb
+C:\Users\bandaru.praneetha\source\repos\day-2 assign\day-2 assign\obj\Debug\day-2 assign.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\day-2 assign\day-2 assign\obj\Debug\day-2 assign.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\day-2 assign\day-2 assign\obj\Debug\day-2 assign.exe
+C:\Users\bandaru.praneetha\source\repos\day-2 assign\day-2 assign\obj\Debug\day-2 assign.pdb

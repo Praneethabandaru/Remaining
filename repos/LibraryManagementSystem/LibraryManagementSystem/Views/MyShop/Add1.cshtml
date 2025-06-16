@@ -1,0 +1,34 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add1</title>
+</head>
+<body>
+    <div>
+        <form method="post">
+            <label>Enter id</label>
+            <input type="text" name="pid" /> <br />
+            <label>Enter name</label>
+            <input type="text" name="pname" /> <br />
+            <label>Enter description</label>
+            <input type="text" name="description" /> <br />
+            <label>Enter price</label>
+            <input type="text" name="price" /> <br />
+            <label>Enter image</label>
+            <input type="text" name="pimage" /> <br />
+            <input type="submit" value="Add Product" />
+        </form>
+        @if (Model > 0)
+        {
+            <h3>Number of products added is @Model</h3>
+        }
+    </div>
+</body>
+</html>

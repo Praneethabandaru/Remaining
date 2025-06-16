@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignDIDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B76F32-7E94-482F-B439-349106CAF351}|AssignDIDemo\\AssignDIDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\assigndidemo\\assigndidemo\\serviceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B76F32-7E94-482F-B439-349106CAF351}|AssignDIDemo\\AssignDIDemo.csproj|solutionrelative:assigndidemo\\serviceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B76F32-7E94-482F-B439-349106CAF351}|AssignDIDemo\\AssignDIDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\assigndidemo\\assigndidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B76F32-7E94-482F-B439-349106CAF351}|AssignDIDemo\\AssignDIDemo.csproj|solutionrelative:assigndidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B76F32-7E94-482F-B439-349106CAF351}|AssignDIDemo\\AssignDIDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\assigndidemo\\assigndidemo\\custservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B76F32-7E94-482F-B439-349106CAF351}|AssignDIDemo\\AssignDIDemo.csproj|solutionrelative:assigndidemo\\custservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B76F32-7E94-482F-B439-349106CAF351}|AssignDIDemo\\AssignDIDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\assigndidemo\\assigndidemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B76F32-7E94-482F-B439-349106CAF351}|AssignDIDemo\\AssignDIDemo.csproj|solutionrelative:assigndidemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B76F32-7E94-482F-B439-349106CAF351}|AssignDIDemo\\AssignDIDemo.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\assigndidemo\\assigndidemo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E5B76F32-7E94-482F-B439-349106CAF351}|AssignDIDemo\\AssignDIDemo.csproj|solutionrelative:assigndidemo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 721,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceUser.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignDIDemo\\AssignDIDemo\\ServiceUser.cs",
+              "RelativeDocumentMoniker": "AssignDIDemo\\ServiceUser.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignDIDemo\\AssignDIDemo\\ServiceUser.cs",
+              "RelativeToolTip": "AssignDIDemo\\ServiceUser.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:37:58.559Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignDIDemo\\AssignDIDemo\\Model1.edmx",
+              "RelativeDocumentMoniker": "AssignDIDemo\\Model1.edmx",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignDIDemo\\AssignDIDemo\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "AssignDIDemo\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-02T09:23:11.553Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "customer.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignDIDemo\\AssignDIDemo\\customer.cs",
+              "RelativeDocumentMoniker": "AssignDIDemo\\customer.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignDIDemo\\AssignDIDemo\\customer.cs",
+              "RelativeToolTip": "AssignDIDemo\\customer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:16:04.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustService.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignDIDemo\\AssignDIDemo\\CustService.cs",
+              "RelativeDocumentMoniker": "AssignDIDemo\\CustService.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignDIDemo\\AssignDIDemo\\CustService.cs*",
+              "RelativeToolTip": "AssignDIDemo\\CustService.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:10:14.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignDIDemo\\AssignDIDemo\\Program.cs",
+              "RelativeDocumentMoniker": "AssignDIDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\AssignDIDemo\\AssignDIDemo\\Program.cs",
+              "RelativeToolTip": "AssignDIDemo\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:56:48.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

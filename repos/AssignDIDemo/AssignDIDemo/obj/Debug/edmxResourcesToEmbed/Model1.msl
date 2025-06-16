@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="b248dbModelStoreContainer" CdmEntityContainer="b248dbEntities1">
+    <EntitySetMapping Name="customers">
+      <EntityTypeMapping TypeName="b248dbModel.customer">
+        <MappingFragment StoreEntitySet="customers">
+          <ScalarProperty Name="custid" ColumnName="custid" />
+          <ScalarProperty Name="custname" ColumnName="custname" />
+          <ScalarProperty Name="dob" ColumnName="dob" />
+          <ScalarProperty Name="caddress" ColumnName="caddress" />
+          <ScalarProperty Name="cphone" ColumnName="cphone" />
+          <ScalarProperty Name="ts" ColumnName="ts" />
+          <ScalarProperty Name="pan" ColumnName="pan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
