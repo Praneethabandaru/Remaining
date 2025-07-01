@@ -1,0 +1,12 @@
+C:\Users\bandaru.praneetha\source\repos\adoproj\adoproj\bin\Debug\adoproj.exe.config
+C:\Users\bandaru.praneetha\source\repos\adoproj\adoproj\bin\Debug\adoproj.exe
+C:\Users\bandaru.praneetha\source\repos\adoproj\adoproj\bin\Debug\adoproj.pdb
+C:\Users\bandaru.praneetha\source\repos\adoproj\adoproj\obj\Debug\adoproj.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\adoproj\adoproj\obj\Debug\adoproj.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\adoproj\adoproj\obj\Debug\adoproj.exe
+C:\Users\bandaru.praneetha\source\repos\adoproj\adoproj\obj\Debug\adoproj.pdb
+C:\Users\bandaru.praneetha\source\repos\adoproj\adoproj\obj\Debug\adoproj.Form1.resources
+C:\Users\bandaru.praneetha\source\repos\adoproj\adoproj\obj\Debug\adoproj.csproj.GenerateResource.cache
+C:\Users\bandaru.praneetha\source\repos\adoproj\adoproj\obj\Debug\adoproj.Form2.resources
+C:\Users\bandaru.praneetha\source\repos\adoproj\adoproj\obj\Debug\adoproj.transactiond.resources
+C:\Users\bandaru.praneetha\source\repos\adoproj\adoproj\obj\Debug\adoproj.Form3.resources
