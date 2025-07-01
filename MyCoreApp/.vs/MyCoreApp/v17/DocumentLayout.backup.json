@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{663AF951-9474-43B3-8778-288D332599B2}|mycorelibrary\\mycorelibrary.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\mycoreapp\\mycorelibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663AF951-9474-43B3-8778-288D332599B2}|mycorelibrary\\mycorelibrary.csproj|solutionrelative:mycorelibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8175C98E-C741-4830-A693-7D3C96A7D377}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\mycoreapp\\mycoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8175C98E-C741-4830-A693-7D3C96A7D377}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApp\\mycorelibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "mycorelibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApp\\mycorelibrary\\Class1.cs*",
+              "RelativeToolTip": "mycorelibrary\\Class1.cs*",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAYwIwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:19:52.507Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApp\\MyCoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyCoreApp\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApp\\MyCoreApp\\Program.cs*",
+              "RelativeToolTip": "MyCoreApp\\Program.cs*",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:06:16.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

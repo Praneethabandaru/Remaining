@@ -1,0 +1,11 @@
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\mycorelibrary\bin\Release\net9.0\mycorelibrary.deps.json
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\mycorelibrary\bin\Release\net9.0\mycorelibrary.dll
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\mycorelibrary\bin\Release\net9.0\mycorelibrary.pdb
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\mycorelibrary\obj\Release\net9.0\mycorelibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\mycorelibrary\obj\Release\net9.0\mycorelibrary.AssemblyInfoInputs.cache
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\mycorelibrary\obj\Release\net9.0\mycorelibrary.AssemblyInfo.cs
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\mycorelibrary\obj\Release\net9.0\mycorelibrary.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\mycorelibrary\obj\Release\net9.0\mycorelibrary.dll
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\mycorelibrary\obj\Release\net9.0\refint\mycorelibrary.dll
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\mycorelibrary\obj\Release\net9.0\mycorelibrary.pdb
+C:\Users\bandaru.praneetha\source\repos\MyCoreApp\mycorelibrary\obj\Release\net9.0\ref\mycorelibrary.dll

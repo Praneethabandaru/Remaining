@@ -1,0 +1,374 @@
+[
+  {
+    "ContainingType": "MyCoreApi.Controllers.StudentsController",
+    "Method": "PostStudents",
+    "RelativePath": "api/addstudents",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Std",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Sname",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Age",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyCoreApi.Controllers.StudentsController",
+    "Method": "DeleteStudents",
+    "RelativePath": "api/deletestudents",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyCoreApi.Controllers.StudentsController",
+    "Method": "getstudents",
+    "RelativePath": "api/getstudents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MyCoreApi.Models.Studenttbl, MyCoreApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyCoreApi.Controllers.StudentsController",
+    "Method": "getstudentsbyid",
+    "RelativePath": "api/getstudentsbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MyCoreApi.Models.Studenttbl, MyCoreApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyCoreApi.Controllers.StudentsController",
+    "Method": "GetCountries",
+    "RelativePath": "api/hello/coun",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String[]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyCoreApi.Controllers.StudentsController",
+    "Method": "GetStudents",
+    "RelativePath": "api/hello/st",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String[]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyCoreApi.Controllers.SPFController",
+    "Method": "Index",
+    "RelativePath": "api/SPF/filter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MyCoreApi.Models.Studenttbl, MyCoreApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyCoreApi.Controllers.SPFController",
+    "Method": "Searchrow",
+    "RelativePath": "api/SPF/paging",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IList\u00601[[MyCoreApi.Models.Studenttbl, MyCoreApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyCoreApi.Controllers.SPFController",
+    "Method": "sortmethod",
+    "RelativePath": "api/SPF/sort",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "columnname",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MyCoreApi.Models.Studenttbl, MyCoreApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyCoreApi.Controllers.testingController",
+    "Method": "Delete",
+    "RelativePath": "api/testing/del",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyCoreApi.Controllers.testingController",
+    "Method": "Searchrowgen",
+    "RelativePath": "api/testing/gen",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MyCoreApi.Models.Studenttbl",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyCoreApi.Controllers.testingController",
+    "Method": "Searchrow",
+    "RelativePath": "api/testing/ser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCoreApi.Controllers.StudentsController",
+    "Method": "updatestudents",
+    "RelativePath": "api/updatestudents",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "st",
+        "Type": "MyCoreApi.Models.Studenttbl",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyCoreApi.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MyCoreApi.WeatherForecast, MyCoreApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

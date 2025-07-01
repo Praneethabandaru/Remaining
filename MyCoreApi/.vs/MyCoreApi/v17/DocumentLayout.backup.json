@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21423AFD-88B7-4BEF-B214-DE0C0C575AE2}|WebApplication1\\WebApplication1.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\mycoreapi\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21423AFD-88B7-4BEF-B214-DE0C0C575AE2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21423AFD-88B7-4BEF-B214-DE0C0C575AE2}|WebApplication1\\WebApplication1.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\mycoreapi\\webapplication1\\models\\b248dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21423AFD-88B7-4BEF-B214-DE0C0C575AE2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\b248dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3395F048-6212-40EA-AB51-2565085F8EC1}|MyCoreApi\\MyCoreApi.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\mycoreapi\\mycoreapi\\controllers\\spfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3395F048-6212-40EA-AB51-2565085F8EC1}|MyCoreApi\\MyCoreApi.csproj|solutionrelative:mycoreapi\\controllers\\spfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3395F048-6212-40EA-AB51-2565085F8EC1}|MyCoreApi\\MyCoreApi.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\mycoreapi\\mycoreapi\\controllers\\testingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3395F048-6212-40EA-AB51-2565085F8EC1}|MyCoreApi\\MyCoreApi.csproj|solutionrelative:mycoreapi\\controllers\\testingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3395F048-6212-40EA-AB51-2565085F8EC1}|MyCoreApi\\MyCoreApi.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\mycoreapi\\mycoreapi\\controllers\\versiondemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3395F048-6212-40EA-AB51-2565085F8EC1}|MyCoreApi\\MyCoreApi.csproj|solutionrelative:mycoreapi\\controllers\\versiondemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3395F048-6212-40EA-AB51-2565085F8EC1}|MyCoreApi\\MyCoreApi.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\mycoreapi\\mycoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3395F048-6212-40EA-AB51-2565085F8EC1}|MyCoreApi\\MyCoreApi.csproj|solutionrelative:mycoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3395F048-6212-40EA-AB51-2565085F8EC1}|MyCoreApi\\MyCoreApi.csproj|c:\\users\\bandaru.praneetha\\source\\repos\\mycoreapi\\mycoreapi\\models\\b248dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3395F048-6212-40EA-AB51-2565085F8EC1}|MyCoreApi\\MyCoreApi.csproj|solutionrelative:mycoreapi\\models\\b248dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2363,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "b248dbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApi\\WebApplication1\\Models\\b248dbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\b248dbContext.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApi\\WebApplication1\\Models\\b248dbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\b248dbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:04:27.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApi\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApi\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:47:51.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SPFController.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApi\\MyCoreApi\\Controllers\\SPFController.cs",
+              "RelativeDocumentMoniker": "MyCoreApi\\Controllers\\SPFController.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApi\\MyCoreApi\\Controllers\\SPFController.cs",
+              "RelativeToolTip": "MyCoreApi\\Controllers\\SPFController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowD0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:47:39.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VersionDemoController.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApi\\MyCoreApi\\Controllers\\VersionDemoController.cs",
+              "RelativeDocumentMoniker": "MyCoreApi\\Controllers\\VersionDemoController.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApi\\MyCoreApi\\Controllers\\VersionDemoController.cs",
+              "RelativeToolTip": "MyCoreApi\\Controllers\\VersionDemoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:47:10.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "testingController.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApi\\MyCoreApi\\Controllers\\testingController.cs",
+              "RelativeDocumentMoniker": "MyCoreApi\\Controllers\\testingController.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApi\\MyCoreApi\\Controllers\\testingController.cs",
+              "RelativeToolTip": "MyCoreApi\\Controllers\\testingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:58:56.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "b248dbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApi\\MyCoreApi\\Models\\b248dbContext.cs",
+              "RelativeDocumentMoniker": "MyCoreApi\\Models\\b248dbContext.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApi\\MyCoreApi\\Models\\b248dbContext.cs",
+              "RelativeToolTip": "MyCoreApi\\Models\\b248dbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:29:02.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApi\\MyCoreApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyCoreApi\\Program.cs",
+              "ToolTip": "C:\\Users\\bandaru.praneetha\\source\\repos\\MyCoreApi\\MyCoreApi\\Program.cs",
+              "RelativeToolTip": "MyCoreApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:04:59.362Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1031,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

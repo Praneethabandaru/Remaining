@@ -1,0 +1,12 @@
+C:\Users\bandaru.praneetha\source\repos\codefirstDemo\codefirstDemo\obj\Debug\codefirstDemo.csproj.AssemblyReference.cache
+C:\Users\bandaru.praneetha\source\repos\codefirstDemo\codefirstDemo\obj\Debug\codefirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\bandaru.praneetha\source\repos\codefirstDemo\codefirstDemo\bin\Debug\codefirstDemo.exe.config
+C:\Users\bandaru.praneetha\source\repos\codefirstDemo\codefirstDemo\bin\Debug\codefirstDemo.exe
+C:\Users\bandaru.praneetha\source\repos\codefirstDemo\codefirstDemo\bin\Debug\codefirstDemo.pdb
+C:\Users\bandaru.praneetha\source\repos\codefirstDemo\codefirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\bandaru.praneetha\source\repos\codefirstDemo\codefirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bandaru.praneetha\source\repos\codefirstDemo\codefirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\bandaru.praneetha\source\repos\codefirstDemo\codefirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bandaru.praneetha\source\repos\codefirstDemo\codefirstDemo\obj\Debug\codefirs.5BEA7D53.Up2Date
+C:\Users\bandaru.praneetha\source\repos\codefirstDemo\codefirstDemo\obj\Debug\codefirstDemo.exe
+C:\Users\bandaru.praneetha\source\repos\codefirstDemo\codefirstDemo\obj\Debug\codefirstDemo.pdb
